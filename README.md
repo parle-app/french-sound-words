@@ -1,5 +1,14 @@
+<div align="center">
+
+<a href="https://www.parleapp.fr/"><img src="assets/parle-icon.png" width="96" alt="Parle"></a>
 
 # Parle French Sound Words
+
+**37 French sounds · 1,088 example words · IPA**
+
+[parleapp.fr](https://www.parleapp.fr/) · [App Store](https://apps.apple.com/app/id6447072574) · [Google Play](https://play.google.com/store/apps/details?id=io.parle.parleapp) · [Hugging Face](https://huggingface.co/Parle-App)
+
+</div>
 
 The 37 sounds of French, each with up to 30 everyday example words and their IPA transcription: 1,088 words in total. This is the word list behind the sound lessons in [Parle](https://www.parleapp.fr/), the French pronunciation app, where learners practise each sound with packs of these words, hearing them and recording themselves.
 
