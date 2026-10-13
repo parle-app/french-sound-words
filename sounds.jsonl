@@ -1,0 +1,37 @@
+{"sound": "i", "sound_type": "oral vowel", "word_count": 30, "examples": "suis, oui, ils, ici, dit"}
+{"sound": "y", "sound_type": "oral vowel", "word_count": 30, "examples": "tu, suis, plus, sur, lui"}
+{"sound": "u", "sound_type": "oral vowel", "word_count": 30, "examples": "vous, pour, nous, tout, pourquoi"}
+{"sound": "e", "sound_type": "oral vowel", "word_count": 30, "examples": "était, avez, été, allez, aller"}
+{"sound": "ø", "sound_type": "oral vowel", "word_count": 30, "examples": "veux, peux, peut, deux, peu"}
+{"sound": "o", "sound_type": "oral vowel", "word_count": 30, "examples": "votre, aussi, autre, notre, faut"}
+{"sound": "ɛ", "sound_type": "oral vowel", "word_count": 30, "examples": "mais, elle, avec, fait, était"}
+{"sound": "œ", "sound_type": "oral vowel", "word_count": 30, "examples": "leur, seul, peur, seule, heure"}
+{"sound": "ɔ", "sound_type": "oral vowel", "word_count": 30, "examples": "comme, alors, chose, encore, accord"}
+{"sound": "ə", "sound_type": "oral vowel", "word_count": 30, "examples": "quelque, besoin, depuis, sera, petit"}
+{"sound": "a", "sound_type": "oral vowel", "word_count": 30, "examples": "pas, avec, moi, quoi, toi"}
+{"sound": "ɑ", "sound_type": "oral vowel", "word_count": 30, "examples": "grâce, âge, âme, lâche, gâteau"}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word_count": 30, "examples": "bien, rien, maintenant, besoin, viens"}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word_count": 15, "examples": "aucun, chacun, commun, lundi, parfum"}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word_count": 30, "examples": "dans, quand, comment, vraiment, maintenant"}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word_count": 30, "examples": "non, sont, bon, donc, monde"}
+{"sound": "p", "sound_type": "consonant", "word_count": 30, "examples": "pas, pour, plus, pourquoi, peux"}
+{"sound": "b", "sound_type": "consonant", "word_count": 30, "examples": "bien, bon, besoin, beaucoup, bonne"}
+{"sound": "t", "sound_type": "consonant", "word_count": 30, "examples": "tu, tout, était, être, toi"}
+{"sound": "d", "sound_type": "consonant", "word_count": 30, "examples": "dans, dit, dire, deux, dois"}
+{"sound": "k", "sound_type": "consonant", "word_count": 30, "examples": "avec, quoi, comme, pourquoi, quand"}
+{"sound": "ɡ", "sound_type": "consonant", "word_count": 30, "examples": "regarde, gars, grand, gros, guerre"}
+{"sound": "f", "sound_type": "consonant", "word_count": 30, "examples": "fait, faire, fais, faut, fois"}
+{"sound": "v", "sound_type": "consonant", "word_count": 30, "examples": "vous, avec, veux, votre, avez"}
+{"sound": "s", "sound_type": "consonant", "word_count": 30, "examples": "suis, sur, sais, ici, cette"}
+{"sound": "z", "sound_type": "consonant", "word_count": 30, "examples": "chose, besoin, désolé, maison, raison"}
+{"sound": "ʃ", "sound_type": "consonant", "word_count": 30, "examples": "chose, chez, chance, chercher, chaque"}
+{"sound": "ʒ", "sound_type": "consonant", "word_count": 30, "examples": "juste, jamais, toujours, déjà, gens"}
+{"sound": "m", "sound_type": "consonant", "word_count": 30, "examples": "mais, moi, comme, merci, jamais"}
+{"sound": "n", "sound_type": "consonant", "word_count": 30, "examples": "nous, non, maintenant, notre, personne"}
+{"sound": "ɲ", "sound_type": "consonant", "word_count": 30, "examples": "ligne, magnifique, signifie, signe, gagne"}
+{"sound": "ŋ", "sound_type": "consonant", "word_count": 23, "examples": "parking, camping, shopping, jogging, smoking"}
+{"sound": "l", "sound_type": "consonant", "word_count": 30, "examples": "elle, plus, ils, lui, alors"}
+{"sound": "ʁ", "sound_type": "consonant", "word_count": 30, "examples": "pour, faire, sur, être, votre"}
+{"sound": "j", "sound_type": "semi-vowel", "word_count": 30, "examples": "bien, dieu, viens, mieux, fille"}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word_count": 30, "examples": "suis, lui, depuis, nuit, tuer"}
+{"sound": "w", "sound_type": "semi-vowel", "word_count": 30, "examples": "moi, oui, quoi, toi, pourquoi"}

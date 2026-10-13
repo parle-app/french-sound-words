@@ -1,0 +1,1089 @@
+sound,sound_type,word,word_ipa,position
+i,oral vowel,suis,syi,1
+i,oral vowel,oui,wi,2
+i,oral vowel,ils,il,3
+i,oral vowel,ici,isi,4
+i,oral vowel,dit,di,5
+i,oral vowel,lui,lyi,6
+i,oral vowel,rien,ʁiɛ̃,7
+i,oral vowel,dire,diʁ,8
+i,oral vowel,merci,mɛʁsi,9
+i,oral vowel,aussi,osi,10
+i,oral vowel,vie,vi,11
+i,oral vowel,depuis,dəpyi,12
+i,oral vowel,dis,di,13
+i,oral vowel,fille,fij,14
+i,oral vowel,petit,pəti,15
+i,oral vowel,nuit,nyi,16
+i,oral vowel,arrive,aʁiv,17
+i,oral vowel,fils,fil,18
+i,oral vowel,famille,famij,19
+i,oral vowel,pris,pʁi,20
+i,oral vowel,partir,paʁtiʁ,21
+i,oral vowel,vite,vit,22
+i,oral vowel,idée,ide,23
+i,oral vowel,venir,vəniʁ,24
+i,oral vowel,ami,ami,25
+i,oral vowel,puis,pyi,26
+i,oral vowel,sortir,sɔʁtiʁ,27
+i,oral vowel,amis,ami,28
+i,oral vowel,fini,fini,29
+i,oral vowel,histoire,istwaʁ,30
+y,oral vowel,tu,ty,1
+y,oral vowel,suis,syi,2
+y,oral vowel,plus,ply,3
+y,oral vowel,sur,syʁ,4
+y,oral vowel,lui,lyi,5
+y,oral vowel,juste,ʒyst,6
+y,oral vowel,vu,vy,7
+y,oral vowel,sûr,syʁ,8
+y,oral vowel,depuis,dəpyi,9
+y,oral vowel,salut,saly,10
+y,oral vowel,nuit,nyi,11
+y,oral vowel,dû,dy,12
+y,oral vowel,voiture,vwatyʁ,13
+y,oral vowel,tuer,tye,14
+y,oral vowel,puis,pyi,15
+y,oral vowel,truc,tʁyk,16
+y,oral vowel,super,sypɛʁ,17
+y,oral vowel,entendu,ɑ̃tɑ̃dy,18
+y,oral vowel,tué,tye,19
+y,oral vowel,aucune,okyn,20
+y,oral vowel,putain,pytɛ̃,21
+y,oral vowel,perdu,pɛʁdy,22
+y,oral vowel,venu,vəny,23
+y,oral vowel,suite,syit,24
+y,oral vowel,minutes,minyt,25
+y,oral vowel,plutôt,plyto,26
+y,oral vowel,bureau,byʁo,27
+y,oral vowel,celui,səlyi,28
+y,oral vowel,dessus,dəsy,29
+y,oral vowel,dur,dyʁ,30
+u,oral vowel,vous,vu,1
+u,oral vowel,pour,puʁ,2
+u,oral vowel,nous,nu,3
+u,oral vowel,tout,tu,4
+u,oral vowel,pourquoi,puʁkwa,5
+u,oral vowel,tous,tus,6
+u,oral vowel,toujours,tuʒuʁ,7
+u,oral vowel,beaucoup,boku,8
+u,oral vowel,toute,tut,9
+u,oral vowel,jour,ʒuʁ,10
+u,oral vowel,bonjour,bɔ̃ʒuʁ,11
+u,oral vowel,voulais,vulɛ,12
+u,oral vowel,voulez,vule,13
+u,oral vowel,trouvé,tʁuve,14
+u,oral vowel,pourrait,puʁɛ,15
+u,oral vowel,jours,ʒuʁ,16
+u,oral vowel,pouvez,puve,17
+u,oral vowel,coup,ku,18
+u,oral vowel,nouveau,nuvo,19
+u,oral vowel,amour,amuʁ,20
+u,oral vowel,sous,su,21
+u,oral vowel,écoute,ekut,22
+u,oral vowel,pouvoir,puvwaʁ,23
+u,oral vowel,boulot,bulo,24
+u,oral vowel,mourir,muʁiʁ,25
+u,oral vowel,journée,ʒuʁne,26
+u,oral vowel,fou,fu,27
+u,oral vowel,souviens,suvjɛ̃,28
+u,oral vowel,cours,kuʁ,29
+u,oral vowel,retour,ʁətuʁ,30
+e,oral vowel,était,etɛ,1
+e,oral vowel,avez,ave,2
+e,oral vowel,été,ete,3
+e,oral vowel,allez,ale,4
+e,oral vowel,aller,ale,5
+e,oral vowel,étais,etɛ,6
+e,oral vowel,parler,paʁle,7
+e,oral vowel,chez,ʃe,8
+e,oral vowel,déjà,deʒa,9
+e,oral vowel,désolé,dezole,10
+e,oral vowel,passé,pase,11
+e,oral vowel,aider,ɛde,12
+e,oral vowel,voulez,vule,13
+e,oral vowel,trouvé,tʁuve,14
+e,oral vowel,savez,save,15
+e,oral vowel,assez,ase,16
+e,oral vowel,tuer,tye,17
+e,oral vowel,idée,ide,18
+e,oral vowel,passer,pase,19
+e,oral vowel,pouvez,puve,20
+e,oral vowel,rester,ʁɛste,21
+e,oral vowel,tué,tye,22
+e,oral vowel,chercher,ʃɛʁʃe,23
+e,oral vowel,laisser,lɛse,24
+e,oral vowel,arrivé,aʁive,25
+e,oral vowel,parlé,paʁle,26
+e,oral vowel,bébé,bebe,27
+e,oral vowel,étaient,etɛ,28
+e,oral vowel,donner,dɔne,29
+e,oral vowel,donné,dɔne,30
+ø,oral vowel,veux,vø,1
+ø,oral vowel,peux,pø,2
+ø,oral vowel,peut,pø,3
+ø,oral vowel,deux,dø,4
+ø,oral vowel,peu,pø,5
+ø,oral vowel,dieu,djø,6
+ø,oral vowel,veut,vø,7
+ø,oral vowel,mieux,mjø,8
+ø,oral vowel,monsieur,məsjø,9
+ø,oral vowel,seulement,sølmɑ̃,10
+ø,oral vowel,vieux,vjø,11
+ø,oral vowel,jeune,ʒøn,12
+ø,oral vowel,feu,fø,13
+ø,oral vowel,ceux,sø,14
+ø,oral vowel,jeu,ʒø,15
+ø,oral vowel,heureux,øʁø,16
+ø,oral vowel,lieu,ljø,17
+ø,oral vowel,peuvent,pøv,18
+ø,oral vowel,sérieux,seʁjø,19
+ø,oral vowel,messieurs,mesjø,20
+ø,oral vowel,cheveux,ʃəvø,21
+ø,oral vowel,dangereux,dɑ̃ʒʁø,22
+ø,oral vowel,preuve,pʁøv,23
+ø,oral vowel,déjeuner,deʒøne,24
+ø,oral vowel,lieutenant,ljøtnɑ̃,25
+ø,oral vowel,milieu,miljø,26
+ø,oral vowel,amoureux,amuʁø,27
+ø,oral vowel,peuple,pøpl,28
+ø,oral vowel,deuxième,døzjɛm,29
+ø,oral vowel,merveilleux,mɛʁvɛjø,30
+o,oral vowel,votre,votʁ,1
+o,oral vowel,aussi,osi,2
+o,oral vowel,autre,otʁ,3
+o,oral vowel,notre,notʁ,4
+o,oral vowel,faut,fo,5
+o,oral vowel,trop,tʁo,6
+o,oral vowel,beaucoup,boku,7
+o,oral vowel,vos,vo,8
+o,oral vowel,désolé,dezole,9
+o,oral vowel,nos,no,10
+o,oral vowel,choses,ʃoz,11
+o,oral vowel,moment,momɑ̃,12
+o,oral vowel,aurais,oʁɛ,13
+o,oral vowel,nouveau,nuvo,14
+o,oral vowel,police,polis,15
+o,oral vowel,aucun,okœ̃,16
+o,oral vowel,côté,kote,17
+o,oral vowel,cause,koz,18
+o,oral vowel,aura,oʁa,19
+o,oral vowel,gros,ɡʁo,20
+o,oral vowel,boulot,bulo,21
+o,oral vowel,plutôt,plyto,22
+o,oral vowel,bureau,byʁo,23
+o,oral vowel,beau,bo,24
+o,oral vowel,propos,pʁopo,25
+o,oral vowel,bientôt,bjɛ̃to,26
+o,oral vowel,numéro,nymeʁo,27
+o,oral vowel,autant,otɑ̃,28
+o,oral vowel,mauvais,movɛ,29
+o,oral vowel,mot,mo,30
+ɛ,oral vowel,mais,mɛ,1
+ɛ,oral vowel,elle,ɛl,2
+ɛ,oral vowel,avec,avɛk,3
+ɛ,oral vowel,fait,fɛ,4
+ɛ,oral vowel,était,etɛ,5
+ɛ,oral vowel,faire,fɛʁ,6
+ɛ,oral vowel,sais,sɛ,7
+ɛ,oral vowel,être,ɛtʁ,8
+ɛ,oral vowel,cette,sɛt,9
+ɛ,oral vowel,vais,vɛ,10
+ɛ,oral vowel,merci,mɛʁsi,11
+ɛ,oral vowel,très,tʁɛ,12
+ɛ,oral vowel,jamais,ʒamɛ,13
+ɛ,oral vowel,vraiment,vʁɛmɑ̃,14
+ɛ,oral vowel,même,mɛm,15
+ɛ,oral vowel,êtes,ɛt,16
+ɛ,oral vowel,quelque,kɛlkə,17
+ɛ,oral vowel,fais,fɛ,18
+ɛ,oral vowel,avait,avɛ,19
+ɛ,oral vowel,étais,etɛ,20
+ɛ,oral vowel,personne,pɛʁsɔn,21
+ɛ,oral vowel,avais,avɛ,22
+ɛ,oral vowel,père,pɛʁ,23
+ɛ,oral vowel,après,apʁɛ,24
+ɛ,oral vowel,ouais,wɛ,25
+ɛ,oral vowel,aime,ɛm,26
+ɛ,oral vowel,vrai,vʁɛ,27
+ɛ,oral vowel,mère,mɛʁ,28
+ɛ,oral vowel,quel,kɛl,29
+ɛ,oral vowel,maison,mɛzɔ̃,30
+œ,oral vowel,leur,lœʁ,1
+œ,oral vowel,seul,sœl,2
+œ,oral vowel,peur,pœʁ,3
+œ,oral vowel,seule,sœl,4
+œ,oral vowel,heure,œʁ,5
+œ,oral vowel,leurs,lœʁ,6
+œ,oral vowel,docteur,dɔktœʁ,7
+œ,oral vowel,meilleur,mɛjœʁ,8
+œ,oral vowel,cœur,kœʁ,9
+œ,oral vowel,veulent,vœl,10
+œ,oral vowel,meurtre,mœʁtʁ,11
+œ,oral vowel,seigneur,sɛnjœʁ,12
+œ,oral vowel,erreur,ɛʁœʁ,13
+œ,oral vowel,intérieur,ɛ̃teʁjœʁ,14
+œ,oral vowel,honneur,ɔnœʁ,15
+œ,oral vowel,ailleurs,ajœʁ,16
+œ,oral vowel,sœur,sœʁ,17
+œ,oral vowel,plusieurs,plyzjœʁ,18
+œ,oral vowel,neuf,nœf,19
+œ,oral vowel,inspecteur,ɛ̃spɛktœʁ,20
+œ,oral vowel,club,klœb,21
+œ,oral vowel,professeur,pʁofɛsœʁ,22
+œ,oral vowel,tueur,tyœʁ,23
+œ,oral vowel,gueule,ɡœl,24
+œ,oral vowel,œil,œj,25
+œ,oral vowel,seuls,sœl,26
+œ,oral vowel,directeur,diʁɛktœʁ,27
+œ,oral vowel,douleur,dulœʁ,28
+œ,oral vowel,ordinateur,ɔʁdinatœʁ,29
+œ,oral vowel,fleurs,flœʁ,30
+ɔ,oral vowel,comme,kɔm,1
+ɔ,oral vowel,alors,alɔʁ,2
+ɔ,oral vowel,chose,ʃɔz,3
+ɔ,oral vowel,encore,ɑ̃kɔʁ,4
+ɔ,oral vowel,accord,akɔʁ,5
+ɔ,oral vowel,personne,pɛʁsɔn,6
+ɔ,oral vowel,homme,ɔm,7
+ɔ,oral vowel,bonne,bɔn,8
+ɔ,oral vowel,mort,mɔʁ,9
+ɔ,oral vowel,problème,pʁɔblɛm,10
+ɔ,oral vowel,sommes,sɔm,11
+ɔ,oral vowel,connais,kɔnɛ,12
+ɔ,oral vowel,porte,pɔʁt,13
+ɔ,oral vowel,sortir,sɔʁtiʁ,14
+ɔ,oral vowel,importe,ɛ̃pɔʁt,15
+ɔ,oral vowel,donner,dɔne,16
+ɔ,oral vowel,corps,kɔʁ,17
+ɔ,oral vowel,donné,dɔne,18
+ɔ,oral vowel,possible,pɔsibl,19
+ɔ,oral vowel,dehors,dəɔʁ,20
+ɔ,oral vowel,docteur,dɔktœʁ,21
+ɔ,oral vowel,école,ekɔl,22
+ɔ,oral vowel,téléphone,telefɔn,23
+ɔ,oral vowel,fort,fɔʁ,24
+ɔ,oral vowel,abord,abɔʁ,25
+ɔ,oral vowel,propre,pʁɔpʁ,26
+ɔ,oral vowel,adore,adɔʁ,27
+ɔ,oral vowel,impossible,ɛ̃pɔsibl,28
+ɔ,oral vowel,sorte,sɔʁt,29
+ɔ,oral vowel,dollars,dɔlaʁ,30
+ə,oral vowel,quelque,kɛlkə,1
+ə,oral vowel,besoin,bəzwɛ̃,2
+ə,oral vowel,depuis,dəpyi,3
+ə,oral vowel,sera,səʁa,4
+ə,oral vowel,petit,pəti,5
+ə,oral vowel,cela,səla,6
+ə,oral vowel,monsieur,məsjø,7
+ə,oral vowel,regarde,ʁəɡaʁd,8
+ə,oral vowel,serait,səʁɛ,9
+ə,oral vowel,venir,vəniʁ,10
+ə,oral vowel,demain,dəmɛ̃,11
+ə,oral vowel,devrais,dəvʁɛ,12
+ə,oral vowel,demande,dəmɑ̃d,13
+ə,oral vowel,revoir,ʁəvwaʁ,14
+ə,oral vowel,premier,pʁəmje,15
+ə,oral vowel,venu,vəny,16
+ə,oral vowel,venez,vəne,17
+ə,oral vowel,devant,dəvɑ̃,18
+ə,oral vowel,celui,səlyi,19
+ə,oral vowel,dehors,dəɔʁ,20
+ə,oral vowel,semaine,səmɛn,21
+ə,oral vowel,devez,dəve,22
+ə,oral vowel,dessus,dəsy,23
+ə,oral vowel,exactement,ɛɡzaktəmɑ̃,24
+ə,oral vowel,presque,pʁɛskə,25
+ə,oral vowel,retour,ʁətuʁ,26
+ə,oral vowel,fera,fəʁa,27
+ə,oral vowel,devoir,dəvwaʁ,28
+ə,oral vowel,ceci,səsi,29
+ə,oral vowel,faisait,fəzɛ,30
+a,oral vowel,pas,pa,1
+a,oral vowel,avec,avɛk,2
+a,oral vowel,moi,mwa,3
+a,oral vowel,quoi,kwa,4
+a,oral vowel,toi,twa,5
+a,oral vowel,pourquoi,puʁkwa,6
+a,oral vowel,avez,ave,7
+a,oral vowel,alors,alɔʁ,8
+a,oral vowel,par,paʁ,9
+a,oral vowel,jamais,ʒamɛ,10
+a,oral vowel,avoir,avwaʁ,11
+a,oral vowel,voir,vwaʁ,12
+a,oral vowel,allez,ale,13
+a,oral vowel,avait,avɛ,14
+a,oral vowel,accord,akɔʁ,15
+a,oral vowel,dois,dwa,16
+a,oral vowel,aller,ale,17
+a,oral vowel,fois,fwa,18
+a,oral vowel,parce,paʁs,19
+a,oral vowel,avant,avɑ̃,20
+a,oral vowel,parler,paʁle,21
+a,oral vowel,avais,avɛ,22
+a,oral vowel,crois,kʁwa,23
+a,oral vowel,après,apʁɛ,24
+a,oral vowel,femme,fam,25
+a,oral vowel,doit,dwa,26
+a,oral vowel,mal,mal,27
+a,oral vowel,déjà,deʒa,28
+a,oral vowel,vas,va,29
+a,oral vowel,sera,səʁa,30
+ɑ,oral vowel,grâce,ɡʁas,1
+ɑ,oral vowel,âge,aʒ,2
+ɑ,oral vowel,âme,am,3
+ɑ,oral vowel,lâche,laʃ,4
+ɑ,oral vowel,gâteau,ɡato,5
+ɑ,oral vowel,bâtiment,batimɑ̃,6
+ɑ,oral vowel,hâte,at,7
+ɑ,oral vowel,château,ʃato,8
+ɑ,oral vowel,crâne,kʁan,9
+ɑ,oral vowel,tâche,taʃ,10
+ɑ,oral vowel,gâcher,ɡaʃe,11
+ɑ,oral vowel,dégâts,deɡa,12
+ɑ,oral vowel,gâché,ɡaʃe,13
+ɑ,oral vowel,fâché,faʃe,14
+ɑ,oral vowel,âmes,am,15
+ɑ,oral vowel,câble,kabl,16
+ɑ,oral vowel,bâton,batɔ̃,17
+ɑ,oral vowel,bâtard,bataʁ,18
+ɑ,oral vowel,lâché,laʃe,19
+ɑ,oral vowel,câlin,kalɛ̃,20
+ɑ,oral vowel,mâle,mal,21
+ɑ,oral vowel,pâle,pal,22
+ɑ,oral vowel,âgé,aʒe,23
+ɑ,oral vowel,blâmer,blame,24
+ɑ,oral vowel,appât,apa,25
+ɑ,oral vowel,âne,an,26
+ɑ,oral vowel,gâchis,ɡaʃi,27
+ɑ,oral vowel,relâcher,ʁəlaʃe,28
+ɑ,oral vowel,âgée,aʒe,29
+ɑ,oral vowel,pâtes,pat,30
+ɛ̃,nasal vowel,bien,bjɛ̃,1
+ɛ̃,nasal vowel,rien,ʁiɛ̃,2
+ɛ̃,nasal vowel,maintenant,mɛ̃tnɑ̃,3
+ɛ̃,nasal vowel,besoin,bəzwɛ̃,4
+ɛ̃,nasal vowel,viens,vjɛ̃,5
+ɛ̃,nasal vowel,moins,mwɛ̃,6
+ɛ̃,nasal vowel,demain,dəmɛ̃,7
+ɛ̃,nasal vowel,combien,kɔ̃bjɛ̃,8
+ɛ̃,nasal vowel,vient,vjɛ̃,9
+ɛ̃,nasal vowel,importe,ɛ̃pɔʁt,10
+ɛ̃,nasal vowel,putain,pytɛ̃,11
+ɛ̃,nasal vowel,train,tʁɛ̃,12
+ɛ̃,nasal vowel,point,pwɛ̃,13
+ɛ̃,nasal vowel,main,mɛ̃,14
+ɛ̃,nasal vowel,tiens,tjɛ̃,15
+ɛ̃,nasal vowel,matin,matɛ̃,16
+ɛ̃,nasal vowel,enfin,ɑ̃fɛ̃,17
+ɛ̃,nasal vowel,loin,lwɛ̃,18
+ɛ̃,nasal vowel,fin,fɛ̃,19
+ɛ̃,nasal vowel,mains,mɛ̃,20
+ɛ̃,nasal vowel,plein,plɛ̃,21
+ɛ̃,nasal vowel,souviens,suvjɛ̃,22
+ɛ̃,nasal vowel,bientôt,bjɛ̃to,23
+ɛ̃,nasal vowel,cinq,sɛ̃k,24
+ɛ̃,nasal vowel,ainsi,ɛ̃si,25
+ɛ̃,nasal vowel,instant,ɛ̃stɑ̃,26
+ɛ̃,nasal vowel,impossible,ɛ̃pɔsibl,27
+ɛ̃,nasal vowel,inquiète,ɛ̃kjɛt,28
+ɛ̃,nasal vowel,reviens,ʁəvjɛ̃,29
+ɛ̃,nasal vowel,chien,ʃjɛ̃,30
+œ̃,nasal vowel,aucun,okœ̃,1
+œ̃,nasal vowel,chacun,ʃakœ̃,2
+œ̃,nasal vowel,commun,kɔmœ̃,3
+œ̃,nasal vowel,lundi,lœ̃di,4
+œ̃,nasal vowel,parfum,paʁfœ̃,5
+œ̃,nasal vowel,emprunter,ɑ̃pʁœ̃te,6
+œ̃,nasal vowel,emprunt,ɑ̃pʁœ̃,7
+œ̃,nasal vowel,humble,œ̃bl,8
+œ̃,nasal vowel,défunt,defœ̃,9
+œ̃,nasal vowel,brun,bʁœ̃,10
+œ̃,nasal vowel,opportun,ɔpɔʁtœ̃,11
+œ̃,nasal vowel,importun,ɛ̃pɔʁtœ̃,12
+œ̃,nasal vowel,tribun,tʁibœ̃,13
+œ̃,nasal vowel,parfums,paʁfœ̃,14
+œ̃,nasal vowel,communs,kɔmœ̃,15
+ɑ̃,nasal vowel,dans,dɑ̃,1
+ɑ̃,nasal vowel,quand,kɑ̃,2
+ɑ̃,nasal vowel,comment,kɔmɑ̃,3
+ɑ̃,nasal vowel,vraiment,vʁɛmɑ̃,4
+ɑ̃,nasal vowel,maintenant,mɛ̃tnɑ̃,5
+ɑ̃,nasal vowel,temps,tɑ̃,6
+ɑ̃,nasal vowel,encore,ɑ̃kɔʁ,7
+ɑ̃,nasal vowel,sans,sɑ̃,8
+ɑ̃,nasal vowel,avant,avɑ̃,9
+ɑ̃,nasal vowel,pense,pɑ̃s,10
+ɑ̃,nasal vowel,gens,ʒɑ̃,11
+ɑ̃,nasal vowel,prendre,pʁɑ̃dʁ,12
+ɑ̃,nasal vowel,argent,aʁʒɑ̃,13
+ɑ̃,nasal vowel,maman,mamɑ̃,14
+ɑ̃,nasal vowel,moment,momɑ̃,15
+ɑ̃,nasal vowel,entre,ɑ̃tʁ,16
+ɑ̃,nasal vowel,attends,atɑ̃,17
+ɑ̃,nasal vowel,enfants,ɑ̃fɑ̃,18
+ɑ̃,nasal vowel,pendant,pɑ̃dɑ̃,19
+ɑ̃,nasal vowel,chance,ʃɑ̃s,20
+ɑ̃,nasal vowel,grand,ɡʁɑ̃,21
+ɑ̃,nasal vowel,tant,tɑ̃,22
+ɑ̃,nasal vowel,sens,sɑ̃s,23
+ɑ̃,nasal vowel,comprends,kɔ̃pʁɑ̃,24
+ɑ̃,nasal vowel,entendu,ɑ̃tɑ̃dy,25
+ɑ̃,nasal vowel,ensemble,ɑ̃sɑ̃bl,26
+ɑ̃,nasal vowel,demande,dəmɑ̃d,27
+ɑ̃,nasal vowel,pensais,pɑ̃sɛ,28
+ɑ̃,nasal vowel,genre,ʒɑ̃ʁ,29
+ɑ̃,nasal vowel,seulement,sølmɑ̃,30
+ɔ̃,nasal vowel,non,nɔ̃,1
+ɔ̃,nasal vowel,sont,sɔ̃,2
+ɔ̃,nasal vowel,bon,bɔ̃,3
+ɔ̃,nasal vowel,donc,dɔ̃k,4
+ɔ̃,nasal vowel,monde,mɔ̃d,5
+ɔ̃,nasal vowel,avons,avɔ̃,6
+ɔ̃,nasal vowel,maison,mɛzɔ̃,7
+ɔ̃,nasal vowel,nom,nɔ̃,8
+ɔ̃,nasal vowel,bonjour,bɔ̃ʒuʁ,9
+ɔ̃,nasal vowel,raison,ʁɛzɔ̃,10
+ɔ̃,nasal vowel,combien,kɔ̃bjɛ̃,11
+ɔ̃,nasal vowel,contre,kɔ̃tʁ,12
+ɔ̃,nasal vowel,comprends,kɔ̃pʁɑ̃,13
+ɔ̃,nasal vowel,allons,alɔ̃,14
+ɔ̃,nasal vowel,question,kɛstjɔ̃,15
+ɔ̃,nasal vowel,vont,vɔ̃,16
+ɔ̃,nasal vowel,longtemps,lɔ̃tɑ̃,17
+ɔ̃,nasal vowel,attention,atɑ̃sjɔ̃,18
+ɔ̃,nasal vowel,façon,fasɔ̃,19
+ɔ̃,nasal vowel,dont,dɔ̃,20
+ɔ̃,nasal vowel,pardon,paʁdɔ̃,21
+ɔ̃,nasal vowel,compte,kɔ̃t,22
+ɔ̃,nasal vowel,confiance,kɔ̃fjɑ̃s,23
+ɔ̃,nasal vowel,garçon,ɡaʁsɔ̃,24
+ɔ̃,nasal vowel,font,fɔ̃,25
+ɔ̃,nasal vowel,tomber,tɔ̃be,26
+ɔ̃,nasal vowel,prison,pʁizɔ̃,27
+ɔ̃,nasal vowel,montrer,mɔ̃tʁe,28
+ɔ̃,nasal vowel,devons,dəvɔ̃,29
+ɔ̃,nasal vowel,seconde,səɡɔ̃d,30
+p,consonant,pas,pa,1
+p,consonant,pour,puʁ,2
+p,consonant,plus,ply,3
+p,consonant,pourquoi,puʁkwa,4
+p,consonant,peux,pø,5
+p,consonant,par,paʁ,6
+p,consonant,peut,pø,7
+p,consonant,peu,pø,8
+p,consonant,parce,paʁs,9
+p,consonant,parler,paʁle,10
+p,consonant,personne,pɛʁsɔn,11
+p,consonant,père,pɛʁ,12
+p,consonant,après,apʁɛ,13
+p,consonant,pense,pɑ̃s,14
+p,consonant,depuis,dəpyi,15
+p,consonant,petit,pəti,16
+p,consonant,passé,pase,17
+p,consonant,prendre,pʁɑ̃dʁ,18
+p,consonant,papa,papa,19
+p,consonant,passe,pas,20
+p,consonant,problème,pʁɔblɛm,21
+p,consonant,peur,pœʁ,22
+p,consonant,plaît,plɛ,23
+p,consonant,pourrait,puʁɛ,24
+p,consonant,pris,pʁi,25
+p,consonant,appelle,apɛl,26
+p,consonant,partir,paʁtiʁ,27
+p,consonant,pendant,pɑ̃dɑ̃,28
+p,consonant,part,paʁ,29
+p,consonant,puis,pyi,30
+b,consonant,bien,bjɛ̃,1
+b,consonant,bon,bɔ̃,2
+b,consonant,besoin,bəzwɛ̃,3
+b,consonant,beaucoup,boku,4
+b,consonant,bonne,bɔn,5
+b,consonant,bonjour,bɔ̃ʒuʁ,6
+b,consonant,problème,pʁɔblɛm,7
+b,consonant,combien,kɔ̃bjɛ̃,8
+b,consonant,ensemble,ɑ̃sɑ̃bl,9
+b,consonant,bébé,bebe,10
+b,consonant,bas,ba,11
+b,consonant,chambre,ʃɑ̃bʁ,12
+b,consonant,belle,bɛl,13
+b,consonant,boulot,bulo,14
+b,consonant,bureau,byʁo,15
+b,consonant,possible,pɔsibl,16
+b,consonant,beau,bo,17
+b,consonant,ben,bɛn,18
+b,consonant,tomber,tɔ̃be,19
+b,consonant,bientôt,bjɛ̃to,20
+b,consonant,semble,sɑ̃bl,21
+b,consonant,abord,abɔʁ,22
+b,consonant,impossible,ɛ̃pɔsibl,23
+b,consonant,bizarre,bizaʁ,24
+b,consonant,oublié,ublie,25
+b,consonant,bras,bʁa,26
+b,consonant,boire,bwaʁ,27
+b,consonant,bois,bwa,28
+b,consonant,début,deby,29
+b,consonant,bonsoir,bɔ̃swaʁ,30
+t,consonant,tu,ty,1
+t,consonant,tout,tu,2
+t,consonant,était,etɛ,3
+t,consonant,être,ɛtʁ,4
+t,consonant,toi,twa,5
+t,consonant,votre,votʁ,6
+t,consonant,cette,sɛt,7
+t,consonant,juste,ʒyst,8
+t,consonant,très,tʁɛ,9
+t,consonant,été,ete,10
+t,consonant,maintenant,mɛ̃tnɑ̃,11
+t,consonant,tous,tus,12
+t,consonant,êtes,ɛt,13
+t,consonant,autre,otʁ,14
+t,consonant,temps,tɑ̃,15
+t,consonant,toujours,tuʒuʁ,16
+t,consonant,notre,notʁ,17
+t,consonant,étais,etɛ,18
+t,consonant,trop,tʁo,19
+t,consonant,petit,pəti,20
+t,consonant,toute,tut,21
+t,consonant,cet,sɛt,22
+t,consonant,reste,ʁɛst,23
+t,consonant,entre,ɑ̃tʁ,24
+t,consonant,trouvé,tʁuve,25
+t,consonant,attends,atɑ̃,26
+t,consonant,trois,tʁwa,27
+t,consonant,travail,tʁavaj,28
+t,consonant,tête,tɛt,29
+t,consonant,faites,fɛt,30
+d,consonant,dans,dɑ̃,1
+d,consonant,dit,di,2
+d,consonant,dire,diʁ,3
+d,consonant,deux,dø,4
+d,consonant,dois,dwa,5
+d,consonant,donc,dɔ̃k,6
+d,consonant,monde,mɔ̃d,7
+d,consonant,dieu,djø,8
+d,consonant,doit,dwa,9
+d,consonant,déjà,deʒa,10
+d,consonant,depuis,dəpyi,11
+d,consonant,dis,di,12
+d,consonant,désolé,dezole,13
+d,consonant,prendre,pʁɑ̃dʁ,14
+d,consonant,aider,ɛde,15
+d,consonant,regarde,ʁəɡaʁd,16
+d,consonant,dû,dy,17
+d,consonant,merde,mɛʁd,18
+d,consonant,pendant,pɑ̃dɑ̃,19
+d,consonant,idée,ide,20
+d,consonant,demain,dəmɛ̃,21
+d,consonant,entendu,ɑ̃tɑ̃dy,22
+d,consonant,devrais,dəvʁɛ,23
+d,consonant,aide,ɛd,24
+d,consonant,dernière,dɛʁnjɛʁ,25
+d,consonant,demande,dəmɑ̃d,26
+d,consonant,donner,dɔne,27
+d,consonant,endroit,ɑ̃dʁwa,28
+d,consonant,donné,dɔne,29
+d,consonant,dont,dɔ̃,30
+k,consonant,avec,avɛk,1
+k,consonant,quoi,kwa,2
+k,consonant,comme,kɔm,3
+k,consonant,pourquoi,puʁkwa,4
+k,consonant,quand,kɑ̃,5
+k,consonant,quelque,kɛlkə,6
+k,consonant,encore,ɑ̃kɔʁ,7
+k,consonant,accord,akɔʁ,8
+k,consonant,donc,dɔ̃k,9
+k,consonant,crois,kʁwa,10
+k,consonant,beaucoup,boku,11
+k,consonant,quel,kɛl,12
+k,consonant,quelle,kɛl,13
+k,consonant,truc,tʁyk,14
+k,consonant,connais,kɔnɛ,15
+k,consonant,combien,kɔ̃bjɛ̃,16
+k,consonant,mec,mɛk,17
+k,consonant,contre,kɔ̃tʁ,18
+k,consonant,coup,ku,19
+k,consonant,comprends,kɔ̃pʁɑ̃,20
+k,consonant,cas,ka,21
+k,consonant,question,kɛstjɔ̃,22
+k,consonant,car,kaʁ,23
+k,consonant,aucun,okœ̃,24
+k,consonant,chaque,ʃak,25
+k,consonant,corps,kɔʁ,26
+k,consonant,écoute,ekut,27
+k,consonant,côté,kote,28
+k,consonant,cause,koz,29
+k,consonant,compte,kɔ̃t,30
+ɡ,consonant,regarde,ʁəɡaʁd,1
+ɡ,consonant,gars,ɡa,2
+ɡ,consonant,grand,ɡʁɑ̃,3
+ɡ,consonant,gros,ɡʁo,4
+ɡ,consonant,guerre,ɡɛʁ,5
+ɡ,consonant,garçon,ɡaʁsɔ̃,6
+ɡ,consonant,exactement,ɛɡzaktəmɑ̃,7
+ɡ,consonant,garde,ɡaʁd,8
+ɡ,consonant,seconde,səɡɔ̃d,9
+ɡ,consonant,grave,ɡʁav,10
+ɡ,consonant,groupe,ɡʁup,11
+ɡ,consonant,gagner,ɡanje,12
+ɡ,consonant,grâce,ɡʁas,13
+ɡ,consonant,gagné,ɡanje,14
+ɡ,consonant,gauche,ɡoʃ,15
+ɡ,consonant,grosse,ɡʁos,16
+ɡ,consonant,gamin,ɡamɛ̃,17
+ɡ,consonant,gueule,ɡœl,18
+ɡ,consonant,blague,blaɡ,19
+ɡ,consonant,existe,ɛɡzist,20
+ɡ,consonant,drogue,dʁoɡ,21
+ɡ,consonant,gouvernement,ɡuvɛʁnəmɑ̃,22
+ɡ,consonant,dingue,dɛ̃ɡ,23
+ɡ,consonant,exemple,ɛɡzɑ̃pl,24
+ɡ,consonant,règles,ʁɛɡl,25
+ɡ,consonant,longue,lɔ̃ɡ,26
+ɡ,consonant,anglais,ɑ̃ɡlɛ,27
+ɡ,consonant,église,eɡliz,28
+ɡ,consonant,magasin,maɡazɛ̃,29
+ɡ,consonant,programme,pʁɔɡʁam,30
+f,consonant,fait,fɛ,1
+f,consonant,faire,fɛʁ,2
+f,consonant,fais,fɛ,3
+f,consonant,faut,fo,4
+f,consonant,fois,fwa,5
+f,consonant,femme,fam,6
+f,consonant,fille,fij,7
+f,consonant,fils,fil,8
+f,consonant,famille,famij,9
+f,consonant,faites,fɛt,10
+f,consonant,enfants,ɑ̃fɑ̃,11
+f,consonant,fini,fini,12
+f,consonant,frère,fʁɛʁ,13
+f,consonant,affaire,afɛʁ,14
+f,consonant,façon,fasɔ̃,15
+f,consonant,enfin,ɑ̃fɛ̃,16
+f,consonant,fin,fɛ̃,17
+f,consonant,confiance,kɔ̃fjɑ̃s,18
+f,consonant,chef,ʃɛf,19
+f,consonant,feu,fø,20
+f,consonant,téléphone,telefɔn,21
+f,consonant,font,fɔ̃,22
+f,consonant,fort,fɔʁ,23
+f,consonant,fou,fu,24
+f,consonant,fête,fɛt,25
+f,consonant,parfait,paʁfɛ,26
+f,consonant,parfois,paʁfwa,27
+f,consonant,film,film,28
+f,consonant,faute,fot,29
+f,consonant,facile,fasil,30
+v,consonant,vous,vu,1
+v,consonant,avec,avɛk,2
+v,consonant,veux,vø,3
+v,consonant,votre,votʁ,4
+v,consonant,avez,ave,5
+v,consonant,vais,vɛ,6
+v,consonant,avoir,avwaʁ,7
+v,consonant,vraiment,vʁɛmɑ̃,8
+v,consonant,voir,vwaʁ,9
+v,consonant,avait,avɛ,10
+v,consonant,vie,vi,11
+v,consonant,vu,vy,12
+v,consonant,avant,avɑ̃,13
+v,consonant,avais,avɛ,14
+v,consonant,viens,vjɛ̃,15
+v,consonant,vrai,vʁɛ,16
+v,consonant,veut,vø,17
+v,consonant,vos,vo,18
+v,consonant,vas,va,19
+v,consonant,vois,vwa,20
+v,consonant,voilà,vwala,21
+v,consonant,avons,avɔ̃,22
+v,consonant,savoir,savwaʁ,23
+v,consonant,arrive,aʁiv,24
+v,consonant,voulais,vulɛ,25
+v,consonant,voulez,vule,26
+v,consonant,trouvé,tʁuve,27
+v,consonant,savez,save,28
+v,consonant,travail,tʁavaj,29
+v,consonant,vite,vit,30
+s,consonant,suis,syi,1
+s,consonant,sur,syʁ,2
+s,consonant,sais,sɛ,3
+s,consonant,ici,isi,4
+s,consonant,cette,sɛt,5
+s,consonant,sont,sɔ̃,6
+s,consonant,merci,mɛʁsi,7
+s,consonant,juste,ʒyst,8
+s,consonant,aussi,osi,9
+s,consonant,tous,tus,10
+s,consonant,sans,sɑ̃,11
+s,consonant,parce,paʁs,12
+s,consonant,sûr,syʁ,13
+s,consonant,personne,pɛʁsɔn,14
+s,consonant,pense,pɑ̃s,15
+s,consonant,sera,səʁa,16
+s,consonant,soit,swa,17
+s,consonant,cela,səla,18
+s,consonant,soir,swaʁ,19
+s,consonant,passé,pase,20
+s,consonant,monsieur,məsjø,21
+s,consonant,savoir,savwaʁ,22
+s,consonant,salut,saly,23
+s,consonant,cet,sɛt,24
+s,consonant,reste,ʁɛst,25
+s,consonant,seul,sœl,26
+s,consonant,passe,pas,27
+s,consonant,savez,save,28
+s,consonant,assez,ase,29
+s,consonant,sait,sɛ,30
+z,consonant,chose,ʃɔz,1
+z,consonant,besoin,bəzwɛ̃,2
+z,consonant,désolé,dezole,3
+z,consonant,maison,mɛzɔ̃,4
+z,consonant,raison,ʁɛzɔ̃,5
+z,consonant,cause,koz,6
+z,consonant,exactement,ɛɡzaktəmɑ̃,7
+z,consonant,excusez,ɛkskyze,8
+z,consonant,prison,pʁizɔ̃,9
+z,consonant,plaisir,plɛziʁ,10
+z,consonant,faisait,fəzɛ,11
+z,consonant,bizarre,bizaʁ,12
+z,consonant,musique,myzik,13
+z,consonant,mlle,madmwazɛl,14
+z,consonant,suppose,sypɔz,15
+z,consonant,visage,vizaʒ,16
+z,consonant,président,pʁezidɑ̃,17
+z,consonant,mauvaise,movɛz,18
+z,consonant,utiliser,ytilize,19
+z,consonant,surprise,syʁpʁiz,20
+z,consonant,heureuse,øʁøz,21
+z,consonant,présent,pʁezɑ̃,22
+z,consonant,plusieurs,plyzjœʁ,23
+z,consonant,disais,dizɛ,24
+z,consonant,disent,diz,25
+z,consonant,poser,poze,26
+z,consonant,visite,vizit,27
+z,consonant,cuisine,kyizin,28
+z,consonant,décision,desizjɔ̃,29
+z,consonant,choisi,ʃwazi,30
+ʃ,consonant,chose,ʃɔz,1
+ʃ,consonant,chez,ʃe,2
+ʃ,consonant,chance,ʃɑ̃s,3
+ʃ,consonant,chercher,ʃɛʁʃe,4
+ʃ,consonant,chaque,ʃak,5
+ʃ,consonant,chambre,ʃɑ̃bʁ,6
+ʃ,consonant,chérie,ʃeʁi,7
+ʃ,consonant,chef,ʃɛf,8
+ʃ,consonant,marche,maʁʃ,9
+ʃ,consonant,choix,ʃwa,10
+ʃ,consonant,changer,ʃɑ̃ʒe,11
+ʃ,consonant,chien,ʃjɛ̃,12
+ʃ,consonant,chemin,ʃəmɛ̃,13
+ʃ,consonant,prochaine,pʁoʃɛn,14
+ʃ,consonant,cher,ʃɛʁ,15
+ʃ,consonant,acheter,aʃte,16
+ʃ,consonant,cheveux,ʃəvø,17
+ʃ,consonant,gauche,ɡoʃ,18
+ʃ,consonant,charlie,ʃaʁli,19
+ʃ,consonant,recherche,ʁəʃɛʁʃ,20
+ʃ,consonant,chaud,ʃo,21
+ʃ,consonant,touche,tuʃ,22
+ʃ,consonant,coucher,kuʃe,23
+ʃ,consonant,chacun,ʃakœ̃,24
+ʃ,consonant,chanson,ʃɑ̃sɔ̃,25
+ʃ,consonant,bouche,buʃ,26
+ʃ,consonant,choisi,ʃwazi,27
+ʃ,consonant,cheval,ʃəval,28
+ʃ,consonant,cacher,kaʃe,29
+ʃ,consonant,fiche,fiʃ,30
+ʒ,consonant,juste,ʒyst,1
+ʒ,consonant,jamais,ʒamɛ,2
+ʒ,consonant,toujours,tuʒuʁ,3
+ʒ,consonant,déjà,deʒa,4
+ʒ,consonant,gens,ʒɑ̃,5
+ʒ,consonant,jour,ʒuʁ,6
+ʒ,consonant,argent,aʁʒɑ̃,7
+ʒ,consonant,bonjour,bɔ̃ʒuʁ,8
+ʒ,consonant,jours,ʒuʁ,9
+ʒ,consonant,genre,ʒɑ̃ʁ,10
+ʒ,consonant,jouer,ʒwe,11
+ʒ,consonant,jeune,ʒøn,12
+ʒ,consonant,journée,ʒuʁne,13
+ʒ,consonant,manger,mɑ̃ʒe,14
+ʒ,consonant,mariage,maʁjaʒ,15
+ʒ,consonant,jeu,ʒø,16
+ʒ,consonant,génial,ʒenjal,17
+ʒ,consonant,changer,ʃɑ̃ʒe,18
+ʒ,consonant,agent,aʒɑ̃,19
+ʒ,consonant,sujet,syʒɛ,20
+ʒ,consonant,gentil,ʒɑ̃ti,21
+ʒ,consonant,visage,vizaʒ,22
+ʒ,consonant,message,mɛsaʒ,23
+ʒ,consonant,joue,ʒu,24
+ʒ,consonant,général,ʒeneʁal,25
+ʒ,consonant,âge,aʒ,26
+ʒ,consonant,voyage,vwajaʒ,27
+ʒ,consonant,protéger,pʁoteʒe,28
+ʒ,consonant,agit,aʒi,29
+ʒ,consonant,bouge,buʒ,30
+m,consonant,mais,mɛ,1
+m,consonant,moi,mwa,2
+m,consonant,comme,kɔm,3
+m,consonant,merci,mɛʁsi,4
+m,consonant,jamais,ʒamɛ,5
+m,consonant,vraiment,vʁɛmɑ̃,6
+m,consonant,même,mɛm,7
+m,consonant,maintenant,mɛ̃tnɑ̃,8
+m,consonant,monde,mɔ̃d,9
+m,consonant,aime,ɛm,10
+m,consonant,homme,ɔm,11
+m,consonant,femme,fam,12
+m,consonant,mal,mal,13
+m,consonant,mort,mɔʁ,14
+m,consonant,mieux,mjø,15
+m,consonant,mère,mɛʁ,16
+m,consonant,maison,mɛzɔ̃,17
+m,consonant,monsieur,məsjø,18
+m,consonant,moins,mwɛ̃,19
+m,consonant,maman,mamɑ̃,20
+m,consonant,moment,momɑ̃,21
+m,consonant,problème,pʁɔblɛm,22
+m,consonant,famille,famij,23
+m,consonant,sommes,sɔm,24
+m,consonant,merde,mɛʁd,25
+m,consonant,ami,ami,26
+m,consonant,demain,dəmɛ̃,27
+m,consonant,mec,mɛk,28
+m,consonant,amour,amuʁ,29
+m,consonant,amis,ami,30
+n,consonant,nous,nu,1
+n,consonant,non,nɔ̃,2
+n,consonant,maintenant,mɛ̃tnɑ̃,3
+n,consonant,notre,notʁ,4
+n,consonant,personne,pɛʁsɔn,5
+n,consonant,bonne,bɔn,6
+n,consonant,nos,no,7
+n,consonant,nom,nɔ̃,8
+n,consonant,nuit,nyi,9
+n,consonant,venir,vəniʁ,10
+n,consonant,connais,kɔnɛ,11
+n,consonant,nouveau,nuvo,12
+n,consonant,fini,fini,13
+n,consonant,dernière,dɛʁnjɛʁ,14
+n,consonant,aucune,okyn,15
+n,consonant,donner,dɔne,16
+n,consonant,donné,dɔne,17
+n,consonant,venu,vəny,18
+n,consonant,minutes,minyt,19
+n,consonant,venez,vəne,20
+n,consonant,jeune,ʒøn,21
+n,consonant,années,ane,22
+n,consonant,semaine,səmɛn,23
+n,consonant,journée,ʒuʁne,24
+n,consonant,téléphone,telefɔn,25
+n,consonant,ben,bɛn,26
+n,consonant,capitaine,kapitɛn,27
+n,consonant,génial,ʒenjal,28
+n,consonant,numéro,nymeʁo,29
+n,consonant,peine,pɛn,30
+ɲ,consonant,ligne,liɲ,1
+ɲ,consonant,magnifique,maɲifik,2
+ɲ,consonant,signifie,siɲifi,3
+ɲ,consonant,signe,siɲ,4
+ɲ,consonant,gagne,ɡaɲ,5
+ɲ,consonant,campagne,kɑ̃paɲ,6
+ɲ,consonant,montagne,mɔ̃taɲ,7
+ɲ,consonant,champagne,ʃɑ̃paɲ,8
+ɲ,consonant,digne,diɲ,9
+ɲ,consonant,accompagne,akɔ̃paɲ,10
+ɲ,consonant,allemagne,almaɲ,11
+ɲ,consonant,enseigne,ɑ̃sɛɲ,12
+ɲ,consonant,espagne,ɛspaɲ,13
+ɲ,consonant,saigne,sɛɲ,14
+ɲ,consonant,dignité,diɲite,15
+ɲ,consonant,règne,ʁɛɲ,16
+ɲ,consonant,éloigne,elwaɲ,17
+ɲ,consonant,raccompagne,ʁakɔ̃paɲ,18
+ɲ,consonant,ivrogne,ivʁɔɲ,19
+ɲ,consonant,soigne,swaɲ,20
+ɲ,consonant,insigne,ɛ̃siɲ,21
+ɲ,consonant,grognements,ɡʁoɲəmɑ̃,22
+ɲ,consonant,maligne,maliɲ,23
+ɲ,consonant,épargne,epaʁɲ,24
+ɲ,consonant,peigne,pɛɲ,25
+ɲ,consonant,cogne,kɔɲ,26
+ɲ,consonant,indigne,ɛ̃diɲ,27
+ɲ,consonant,pologne,polɔɲ,28
+ɲ,consonant,compagne,kɔ̃paɲ,29
+ɲ,consonant,baigne,bɛɲ,30
+ŋ,consonant,parking,pɑkɪŋ,1
+ŋ,consonant,camping,kampɪŋ,2
+ŋ,consonant,shopping,ʃɒpɪŋ,3
+ŋ,consonant,jogging,dʒɒɡɪŋ,4
+ŋ,consonant,smoking,sməʊkɪŋ,5
+ŋ,consonant,meeting,mitɪŋ,6
+ŋ,consonant,marketing,mɑkɪtɪŋ,7
+ŋ,consonant,building,bɪldɪŋ,8
+ŋ,consonant,brushing,bɹʌʃɪŋ,9
+ŋ,consonant,dancing,dansɪŋ,10
+ŋ,consonant,planning,planɪŋ,11
+ŋ,consonant,pressing,pɹɛsɪŋ,12
+ŋ,consonant,bowling,bəʊlɪŋ,13
+ŋ,consonant,standing,standɪŋ,14
+ŋ,consonant,living,lɪvɪŋ,15
+ŋ,consonant,casting,kastɪŋ,16
+ŋ,consonant,briefing,bɹifɪŋ,17
+ŋ,consonant,lifting,lɪftɪŋ,18
+ŋ,consonant,coaching,kəʊtʃɪŋ,19
+ŋ,consonant,footing,fʊtɪŋ,20
+ŋ,consonant,ring,ɹɪŋ,21
+ŋ,consonant,piercing,piəsɪŋ,22
+ŋ,consonant,lobbying,lɒbɪɪŋ,23
+l,consonant,elle,ɛl,1
+l,consonant,plus,ply,2
+l,consonant,ils,il,3
+l,consonant,lui,lyi,4
+l,consonant,alors,alɔʁ,5
+l,consonant,allez,ale,6
+l,consonant,quelque,kɛlkə,7
+l,consonant,aller,ale,8
+l,consonant,parler,paʁle,9
+l,consonant,leur,lœʁ,10
+l,consonant,mal,mal,11
+l,consonant,quel,kɛl,12
+l,consonant,désolé,dezole,13
+l,consonant,voilà,vwala,14
+l,consonant,cela,səla,15
+l,consonant,salut,saly,16
+l,consonant,voulais,vulɛ,17
+l,consonant,seul,sœl,18
+l,consonant,problème,pʁɔblɛm,19
+l,consonant,voulez,vule,20
+l,consonant,fils,fil,21
+l,consonant,plaît,plɛ,22
+l,consonant,quelle,kɛl,23
+l,consonant,appelle,apɛl,24
+l,consonant,seule,sœl,25
+l,consonant,elles,ɛl,26
+l,consonant,allons,alɔ̃,27
+l,consonant,ensemble,ɑ̃sɑ̃bl,28
+l,consonant,police,polis,29
+l,consonant,laisser,lɛse,30
+ʁ,consonant,pour,puʁ,1
+ʁ,consonant,faire,fɛʁ,2
+ʁ,consonant,sur,syʁ,3
+ʁ,consonant,être,ɛtʁ,4
+ʁ,consonant,votre,votʁ,5
+ʁ,consonant,pourquoi,puʁkwa,6
+ʁ,consonant,rien,ʁiɛ̃,7
+ʁ,consonant,dire,diʁ,8
+ʁ,consonant,alors,alɔʁ,9
+ʁ,consonant,par,paʁ,10
+ʁ,consonant,merci,mɛʁsi,11
+ʁ,consonant,très,tʁɛ,12
+ʁ,consonant,avoir,avwaʁ,13
+ʁ,consonant,vraiment,vʁɛmɑ̃,14
+ʁ,consonant,voir,vwaʁ,15
+ʁ,consonant,autre,otʁ,16
+ʁ,consonant,toujours,tuʒuʁ,17
+ʁ,consonant,encore,ɑ̃kɔʁ,18
+ʁ,consonant,notre,notʁ,19
+ʁ,consonant,accord,akɔʁ,20
+ʁ,consonant,parce,paʁs,21
+ʁ,consonant,sûr,syʁ,22
+ʁ,consonant,trop,tʁo,23
+ʁ,consonant,parler,paʁle,24
+ʁ,consonant,personne,pɛʁsɔn,25
+ʁ,consonant,père,pɛʁ,26
+ʁ,consonant,crois,kʁwa,27
+ʁ,consonant,après,apʁɛ,28
+ʁ,consonant,leur,lœʁ,29
+ʁ,consonant,vrai,vʁɛ,30
+j,semi-vowel,bien,bjɛ̃,1
+j,semi-vowel,dieu,djø,2
+j,semi-vowel,viens,vjɛ̃,3
+j,semi-vowel,mieux,mjø,4
+j,semi-vowel,fille,fij,5
+j,semi-vowel,monsieur,məsjø,6
+j,semi-vowel,famille,famij,7
+j,semi-vowel,travail,tʁavaj,8
+j,semi-vowel,combien,kɔ̃bjɛ̃,9
+j,semi-vowel,vient,vjɛ̃,10
+j,semi-vowel,question,kɛstjɔ̃,11
+j,semi-vowel,dernière,dɛʁnjɛʁ,12
+j,semi-vowel,attention,atɑ̃sjɔ̃,13
+j,semi-vowel,premier,pʁəmje,14
+j,semi-vowel,tiens,tjɛ̃,15
+j,semi-vowel,vieux,vjø,16
+j,semi-vowel,hier,jɛʁ,17
+j,semi-vowel,confiance,kɔ̃fjɑ̃s,18
+j,semi-vowel,meilleur,mɛjœʁ,19
+j,semi-vowel,derrière,dɛʁjɛʁ,20
+j,semi-vowel,mariage,maʁjaʒ,21
+j,semi-vowel,souviens,suvjɛ̃,22
+j,semi-vowel,génial,ʒenjal,23
+j,semi-vowel,bientôt,bjɛ̃to,24
+j,semi-vowel,essayé,esɛje,25
+j,semi-vowel,voyez,vwaje,26
+j,semi-vowel,croyais,kʁwajɛ,27
+j,semi-vowel,étiez,etje,28
+j,semi-vowel,lieu,ljø,29
+j,semi-vowel,inquiète,ɛ̃kjɛt,30
+ɥ,semi-vowel,suis,syi,1
+ɥ,semi-vowel,lui,lyi,2
+ɥ,semi-vowel,depuis,dəpyi,3
+ɥ,semi-vowel,nuit,nyi,4
+ɥ,semi-vowel,tuer,tye,5
+ɥ,semi-vowel,puis,pyi,6
+ɥ,semi-vowel,tué,tye,7
+ɥ,semi-vowel,suite,syit,8
+ɥ,semi-vowel,celui,səlyi,9
+ɥ,semi-vowel,ensuite,ɑ̃syit,10
+ɥ,semi-vowel,puisse,pyis,11
+ɥ,semi-vowel,situation,sityasjɔ̃,12
+ɥ,semi-vowel,suivre,syivʁ,13
+ɥ,semi-vowel,continuer,kɔ̃tinye,14
+ɥ,semi-vowel,tueur,tyœʁ,15
+ɥ,semi-vowel,cuisine,kyizin,16
+ɥ,semi-vowel,bruit,bʁyi,17
+ɥ,semi-vowel,ennuis,ɑ̃nyi,18
+ɥ,semi-vowel,conduire,kɔ̃dyiʁ,19
+ɥ,semi-vowel,huit,yit,20
+ɥ,semi-vowel,détruire,detʁyiʁ,21
+ɥ,semi-vowel,puisque,pyiskə,22
+ɥ,semi-vowel,tuée,tye,23
+ɥ,semi-vowel,suivi,syivi,24
+ɥ,semi-vowel,produit,pʁodyi,25
+ɥ,semi-vowel,suivant,syivɑ̃,26
+ɥ,semi-vowel,suicide,syisid,27
+ɥ,semi-vowel,fuir,fyiʁ,28
+ɥ,semi-vowel,pluie,plyi,29
+ɥ,semi-vowel,fuite,fyit,30
+w,semi-vowel,moi,mwa,1
+w,semi-vowel,oui,wi,2
+w,semi-vowel,quoi,kwa,3
+w,semi-vowel,toi,twa,4
+w,semi-vowel,pourquoi,puʁkwa,5
+w,semi-vowel,avoir,avwaʁ,6
+w,semi-vowel,voir,vwaʁ,7
+w,semi-vowel,besoin,bəzwɛ̃,8
+w,semi-vowel,dois,dwa,9
+w,semi-vowel,fois,fwa,10
+w,semi-vowel,crois,kʁwa,11
+w,semi-vowel,ouais,wɛ,12
+w,semi-vowel,doit,dwa,13
+w,semi-vowel,vois,vwa,14
+w,semi-vowel,voilà,vwala,15
+w,semi-vowel,soit,swa,16
+w,semi-vowel,soir,swaʁ,17
+w,semi-vowel,savoir,savwaʁ,18
+w,semi-vowel,moins,mwɛ̃,19
+w,semi-vowel,trois,tʁwa,20
+w,semi-vowel,voiture,vwatyʁ,21
+w,semi-vowel,histoire,istwaʁ,22
+w,semi-vowel,mois,mwa,23
+w,semi-vowel,revoir,ʁəvwaʁ,24
+w,semi-vowel,endroit,ɑ̃dʁwa,25
+w,semi-vowel,voici,vwasi,26
+w,semi-vowel,pouvoir,puvwaʁ,27
+w,semi-vowel,point,pwɛ̃,28
+w,semi-vowel,sois,swa,29
+w,semi-vowel,droit,dʁwa,30

@@ -1,0 +1,1088 @@
+{"sound": "i", "sound_type": "oral vowel", "word": "suis", "word_ipa": "syi", "position": 1}
+{"sound": "i", "sound_type": "oral vowel", "word": "oui", "word_ipa": "wi", "position": 2}
+{"sound": "i", "sound_type": "oral vowel", "word": "ils", "word_ipa": "il", "position": 3}
+{"sound": "i", "sound_type": "oral vowel", "word": "ici", "word_ipa": "isi", "position": 4}
+{"sound": "i", "sound_type": "oral vowel", "word": "dit", "word_ipa": "di", "position": 5}
+{"sound": "i", "sound_type": "oral vowel", "word": "lui", "word_ipa": "lyi", "position": 6}
+{"sound": "i", "sound_type": "oral vowel", "word": "rien", "word_ipa": "ʁiɛ̃", "position": 7}
+{"sound": "i", "sound_type": "oral vowel", "word": "dire", "word_ipa": "diʁ", "position": 8}
+{"sound": "i", "sound_type": "oral vowel", "word": "merci", "word_ipa": "mɛʁsi", "position": 9}
+{"sound": "i", "sound_type": "oral vowel", "word": "aussi", "word_ipa": "osi", "position": 10}
+{"sound": "i", "sound_type": "oral vowel", "word": "vie", "word_ipa": "vi", "position": 11}
+{"sound": "i", "sound_type": "oral vowel", "word": "depuis", "word_ipa": "dəpyi", "position": 12}
+{"sound": "i", "sound_type": "oral vowel", "word": "dis", "word_ipa": "di", "position": 13}
+{"sound": "i", "sound_type": "oral vowel", "word": "fille", "word_ipa": "fij", "position": 14}
+{"sound": "i", "sound_type": "oral vowel", "word": "petit", "word_ipa": "pəti", "position": 15}
+{"sound": "i", "sound_type": "oral vowel", "word": "nuit", "word_ipa": "nyi", "position": 16}
+{"sound": "i", "sound_type": "oral vowel", "word": "arrive", "word_ipa": "aʁiv", "position": 17}
+{"sound": "i", "sound_type": "oral vowel", "word": "fils", "word_ipa": "fil", "position": 18}
+{"sound": "i", "sound_type": "oral vowel", "word": "famille", "word_ipa": "famij", "position": 19}
+{"sound": "i", "sound_type": "oral vowel", "word": "pris", "word_ipa": "pʁi", "position": 20}
+{"sound": "i", "sound_type": "oral vowel", "word": "partir", "word_ipa": "paʁtiʁ", "position": 21}
+{"sound": "i", "sound_type": "oral vowel", "word": "vite", "word_ipa": "vit", "position": 22}
+{"sound": "i", "sound_type": "oral vowel", "word": "idée", "word_ipa": "ide", "position": 23}
+{"sound": "i", "sound_type": "oral vowel", "word": "venir", "word_ipa": "vəniʁ", "position": 24}
+{"sound": "i", "sound_type": "oral vowel", "word": "ami", "word_ipa": "ami", "position": 25}
+{"sound": "i", "sound_type": "oral vowel", "word": "puis", "word_ipa": "pyi", "position": 26}
+{"sound": "i", "sound_type": "oral vowel", "word": "sortir", "word_ipa": "sɔʁtiʁ", "position": 27}
+{"sound": "i", "sound_type": "oral vowel", "word": "amis", "word_ipa": "ami", "position": 28}
+{"sound": "i", "sound_type": "oral vowel", "word": "fini", "word_ipa": "fini", "position": 29}
+{"sound": "i", "sound_type": "oral vowel", "word": "histoire", "word_ipa": "istwaʁ", "position": 30}
+{"sound": "y", "sound_type": "oral vowel", "word": "tu", "word_ipa": "ty", "position": 1}
+{"sound": "y", "sound_type": "oral vowel", "word": "suis", "word_ipa": "syi", "position": 2}
+{"sound": "y", "sound_type": "oral vowel", "word": "plus", "word_ipa": "ply", "position": 3}
+{"sound": "y", "sound_type": "oral vowel", "word": "sur", "word_ipa": "syʁ", "position": 4}
+{"sound": "y", "sound_type": "oral vowel", "word": "lui", "word_ipa": "lyi", "position": 5}
+{"sound": "y", "sound_type": "oral vowel", "word": "juste", "word_ipa": "ʒyst", "position": 6}
+{"sound": "y", "sound_type": "oral vowel", "word": "vu", "word_ipa": "vy", "position": 7}
+{"sound": "y", "sound_type": "oral vowel", "word": "sûr", "word_ipa": "syʁ", "position": 8}
+{"sound": "y", "sound_type": "oral vowel", "word": "depuis", "word_ipa": "dəpyi", "position": 9}
+{"sound": "y", "sound_type": "oral vowel", "word": "salut", "word_ipa": "saly", "position": 10}
+{"sound": "y", "sound_type": "oral vowel", "word": "nuit", "word_ipa": "nyi", "position": 11}
+{"sound": "y", "sound_type": "oral vowel", "word": "dû", "word_ipa": "dy", "position": 12}
+{"sound": "y", "sound_type": "oral vowel", "word": "voiture", "word_ipa": "vwatyʁ", "position": 13}
+{"sound": "y", "sound_type": "oral vowel", "word": "tuer", "word_ipa": "tye", "position": 14}
+{"sound": "y", "sound_type": "oral vowel", "word": "puis", "word_ipa": "pyi", "position": 15}
+{"sound": "y", "sound_type": "oral vowel", "word": "truc", "word_ipa": "tʁyk", "position": 16}
+{"sound": "y", "sound_type": "oral vowel", "word": "super", "word_ipa": "sypɛʁ", "position": 17}
+{"sound": "y", "sound_type": "oral vowel", "word": "entendu", "word_ipa": "ɑ̃tɑ̃dy", "position": 18}
+{"sound": "y", "sound_type": "oral vowel", "word": "tué", "word_ipa": "tye", "position": 19}
+{"sound": "y", "sound_type": "oral vowel", "word": "aucune", "word_ipa": "okyn", "position": 20}
+{"sound": "y", "sound_type": "oral vowel", "word": "putain", "word_ipa": "pytɛ̃", "position": 21}
+{"sound": "y", "sound_type": "oral vowel", "word": "perdu", "word_ipa": "pɛʁdy", "position": 22}
+{"sound": "y", "sound_type": "oral vowel", "word": "venu", "word_ipa": "vəny", "position": 23}
+{"sound": "y", "sound_type": "oral vowel", "word": "suite", "word_ipa": "syit", "position": 24}
+{"sound": "y", "sound_type": "oral vowel", "word": "minutes", "word_ipa": "minyt", "position": 25}
+{"sound": "y", "sound_type": "oral vowel", "word": "plutôt", "word_ipa": "plyto", "position": 26}
+{"sound": "y", "sound_type": "oral vowel", "word": "bureau", "word_ipa": "byʁo", "position": 27}
+{"sound": "y", "sound_type": "oral vowel", "word": "celui", "word_ipa": "səlyi", "position": 28}
+{"sound": "y", "sound_type": "oral vowel", "word": "dessus", "word_ipa": "dəsy", "position": 29}
+{"sound": "y", "sound_type": "oral vowel", "word": "dur", "word_ipa": "dyʁ", "position": 30}
+{"sound": "u", "sound_type": "oral vowel", "word": "vous", "word_ipa": "vu", "position": 1}
+{"sound": "u", "sound_type": "oral vowel", "word": "pour", "word_ipa": "puʁ", "position": 2}
+{"sound": "u", "sound_type": "oral vowel", "word": "nous", "word_ipa": "nu", "position": 3}
+{"sound": "u", "sound_type": "oral vowel", "word": "tout", "word_ipa": "tu", "position": 4}
+{"sound": "u", "sound_type": "oral vowel", "word": "pourquoi", "word_ipa": "puʁkwa", "position": 5}
+{"sound": "u", "sound_type": "oral vowel", "word": "tous", "word_ipa": "tus", "position": 6}
+{"sound": "u", "sound_type": "oral vowel", "word": "toujours", "word_ipa": "tuʒuʁ", "position": 7}
+{"sound": "u", "sound_type": "oral vowel", "word": "beaucoup", "word_ipa": "boku", "position": 8}
+{"sound": "u", "sound_type": "oral vowel", "word": "toute", "word_ipa": "tut", "position": 9}
+{"sound": "u", "sound_type": "oral vowel", "word": "jour", "word_ipa": "ʒuʁ", "position": 10}
+{"sound": "u", "sound_type": "oral vowel", "word": "bonjour", "word_ipa": "bɔ̃ʒuʁ", "position": 11}
+{"sound": "u", "sound_type": "oral vowel", "word": "voulais", "word_ipa": "vulɛ", "position": 12}
+{"sound": "u", "sound_type": "oral vowel", "word": "voulez", "word_ipa": "vule", "position": 13}
+{"sound": "u", "sound_type": "oral vowel", "word": "trouvé", "word_ipa": "tʁuve", "position": 14}
+{"sound": "u", "sound_type": "oral vowel", "word": "pourrait", "word_ipa": "puʁɛ", "position": 15}
+{"sound": "u", "sound_type": "oral vowel", "word": "jours", "word_ipa": "ʒuʁ", "position": 16}
+{"sound": "u", "sound_type": "oral vowel", "word": "pouvez", "word_ipa": "puve", "position": 17}
+{"sound": "u", "sound_type": "oral vowel", "word": "coup", "word_ipa": "ku", "position": 18}
+{"sound": "u", "sound_type": "oral vowel", "word": "nouveau", "word_ipa": "nuvo", "position": 19}
+{"sound": "u", "sound_type": "oral vowel", "word": "amour", "word_ipa": "amuʁ", "position": 20}
+{"sound": "u", "sound_type": "oral vowel", "word": "sous", "word_ipa": "su", "position": 21}
+{"sound": "u", "sound_type": "oral vowel", "word": "écoute", "word_ipa": "ekut", "position": 22}
+{"sound": "u", "sound_type": "oral vowel", "word": "pouvoir", "word_ipa": "puvwaʁ", "position": 23}
+{"sound": "u", "sound_type": "oral vowel", "word": "boulot", "word_ipa": "bulo", "position": 24}
+{"sound": "u", "sound_type": "oral vowel", "word": "mourir", "word_ipa": "muʁiʁ", "position": 25}
+{"sound": "u", "sound_type": "oral vowel", "word": "journée", "word_ipa": "ʒuʁne", "position": 26}
+{"sound": "u", "sound_type": "oral vowel", "word": "fou", "word_ipa": "fu", "position": 27}
+{"sound": "u", "sound_type": "oral vowel", "word": "souviens", "word_ipa": "suvjɛ̃", "position": 28}
+{"sound": "u", "sound_type": "oral vowel", "word": "cours", "word_ipa": "kuʁ", "position": 29}
+{"sound": "u", "sound_type": "oral vowel", "word": "retour", "word_ipa": "ʁətuʁ", "position": 30}
+{"sound": "e", "sound_type": "oral vowel", "word": "était", "word_ipa": "etɛ", "position": 1}
+{"sound": "e", "sound_type": "oral vowel", "word": "avez", "word_ipa": "ave", "position": 2}
+{"sound": "e", "sound_type": "oral vowel", "word": "été", "word_ipa": "ete", "position": 3}
+{"sound": "e", "sound_type": "oral vowel", "word": "allez", "word_ipa": "ale", "position": 4}
+{"sound": "e", "sound_type": "oral vowel", "word": "aller", "word_ipa": "ale", "position": 5}
+{"sound": "e", "sound_type": "oral vowel", "word": "étais", "word_ipa": "etɛ", "position": 6}
+{"sound": "e", "sound_type": "oral vowel", "word": "parler", "word_ipa": "paʁle", "position": 7}
+{"sound": "e", "sound_type": "oral vowel", "word": "chez", "word_ipa": "ʃe", "position": 8}
+{"sound": "e", "sound_type": "oral vowel", "word": "déjà", "word_ipa": "deʒa", "position": 9}
+{"sound": "e", "sound_type": "oral vowel", "word": "désolé", "word_ipa": "dezole", "position": 10}
+{"sound": "e", "sound_type": "oral vowel", "word": "passé", "word_ipa": "pase", "position": 11}
+{"sound": "e", "sound_type": "oral vowel", "word": "aider", "word_ipa": "ɛde", "position": 12}
+{"sound": "e", "sound_type": "oral vowel", "word": "voulez", "word_ipa": "vule", "position": 13}
+{"sound": "e", "sound_type": "oral vowel", "word": "trouvé", "word_ipa": "tʁuve", "position": 14}
+{"sound": "e", "sound_type": "oral vowel", "word": "savez", "word_ipa": "save", "position": 15}
+{"sound": "e", "sound_type": "oral vowel", "word": "assez", "word_ipa": "ase", "position": 16}
+{"sound": "e", "sound_type": "oral vowel", "word": "tuer", "word_ipa": "tye", "position": 17}
+{"sound": "e", "sound_type": "oral vowel", "word": "idée", "word_ipa": "ide", "position": 18}
+{"sound": "e", "sound_type": "oral vowel", "word": "passer", "word_ipa": "pase", "position": 19}
+{"sound": "e", "sound_type": "oral vowel", "word": "pouvez", "word_ipa": "puve", "position": 20}
+{"sound": "e", "sound_type": "oral vowel", "word": "rester", "word_ipa": "ʁɛste", "position": 21}
+{"sound": "e", "sound_type": "oral vowel", "word": "tué", "word_ipa": "tye", "position": 22}
+{"sound": "e", "sound_type": "oral vowel", "word": "chercher", "word_ipa": "ʃɛʁʃe", "position": 23}
+{"sound": "e", "sound_type": "oral vowel", "word": "laisser", "word_ipa": "lɛse", "position": 24}
+{"sound": "e", "sound_type": "oral vowel", "word": "arrivé", "word_ipa": "aʁive", "position": 25}
+{"sound": "e", "sound_type": "oral vowel", "word": "parlé", "word_ipa": "paʁle", "position": 26}
+{"sound": "e", "sound_type": "oral vowel", "word": "bébé", "word_ipa": "bebe", "position": 27}
+{"sound": "e", "sound_type": "oral vowel", "word": "étaient", "word_ipa": "etɛ", "position": 28}
+{"sound": "e", "sound_type": "oral vowel", "word": "donner", "word_ipa": "dɔne", "position": 29}
+{"sound": "e", "sound_type": "oral vowel", "word": "donné", "word_ipa": "dɔne", "position": 30}
+{"sound": "ø", "sound_type": "oral vowel", "word": "veux", "word_ipa": "vø", "position": 1}
+{"sound": "ø", "sound_type": "oral vowel", "word": "peux", "word_ipa": "pø", "position": 2}
+{"sound": "ø", "sound_type": "oral vowel", "word": "peut", "word_ipa": "pø", "position": 3}
+{"sound": "ø", "sound_type": "oral vowel", "word": "deux", "word_ipa": "dø", "position": 4}
+{"sound": "ø", "sound_type": "oral vowel", "word": "peu", "word_ipa": "pø", "position": 5}
+{"sound": "ø", "sound_type": "oral vowel", "word": "dieu", "word_ipa": "djø", "position": 6}
+{"sound": "ø", "sound_type": "oral vowel", "word": "veut", "word_ipa": "vø", "position": 7}
+{"sound": "ø", "sound_type": "oral vowel", "word": "mieux", "word_ipa": "mjø", "position": 8}
+{"sound": "ø", "sound_type": "oral vowel", "word": "monsieur", "word_ipa": "məsjø", "position": 9}
+{"sound": "ø", "sound_type": "oral vowel", "word": "seulement", "word_ipa": "sølmɑ̃", "position": 10}
+{"sound": "ø", "sound_type": "oral vowel", "word": "vieux", "word_ipa": "vjø", "position": 11}
+{"sound": "ø", "sound_type": "oral vowel", "word": "jeune", "word_ipa": "ʒøn", "position": 12}
+{"sound": "ø", "sound_type": "oral vowel", "word": "feu", "word_ipa": "fø", "position": 13}
+{"sound": "ø", "sound_type": "oral vowel", "word": "ceux", "word_ipa": "sø", "position": 14}
+{"sound": "ø", "sound_type": "oral vowel", "word": "jeu", "word_ipa": "ʒø", "position": 15}
+{"sound": "ø", "sound_type": "oral vowel", "word": "heureux", "word_ipa": "øʁø", "position": 16}
+{"sound": "ø", "sound_type": "oral vowel", "word": "lieu", "word_ipa": "ljø", "position": 17}
+{"sound": "ø", "sound_type": "oral vowel", "word": "peuvent", "word_ipa": "pøv", "position": 18}
+{"sound": "ø", "sound_type": "oral vowel", "word": "sérieux", "word_ipa": "seʁjø", "position": 19}
+{"sound": "ø", "sound_type": "oral vowel", "word": "messieurs", "word_ipa": "mesjø", "position": 20}
+{"sound": "ø", "sound_type": "oral vowel", "word": "cheveux", "word_ipa": "ʃəvø", "position": 21}
+{"sound": "ø", "sound_type": "oral vowel", "word": "dangereux", "word_ipa": "dɑ̃ʒʁø", "position": 22}
+{"sound": "ø", "sound_type": "oral vowel", "word": "preuve", "word_ipa": "pʁøv", "position": 23}
+{"sound": "ø", "sound_type": "oral vowel", "word": "déjeuner", "word_ipa": "deʒøne", "position": 24}
+{"sound": "ø", "sound_type": "oral vowel", "word": "lieutenant", "word_ipa": "ljøtnɑ̃", "position": 25}
+{"sound": "ø", "sound_type": "oral vowel", "word": "milieu", "word_ipa": "miljø", "position": 26}
+{"sound": "ø", "sound_type": "oral vowel", "word": "amoureux", "word_ipa": "amuʁø", "position": 27}
+{"sound": "ø", "sound_type": "oral vowel", "word": "peuple", "word_ipa": "pøpl", "position": 28}
+{"sound": "ø", "sound_type": "oral vowel", "word": "deuxième", "word_ipa": "døzjɛm", "position": 29}
+{"sound": "ø", "sound_type": "oral vowel", "word": "merveilleux", "word_ipa": "mɛʁvɛjø", "position": 30}
+{"sound": "o", "sound_type": "oral vowel", "word": "votre", "word_ipa": "votʁ", "position": 1}
+{"sound": "o", "sound_type": "oral vowel", "word": "aussi", "word_ipa": "osi", "position": 2}
+{"sound": "o", "sound_type": "oral vowel", "word": "autre", "word_ipa": "otʁ", "position": 3}
+{"sound": "o", "sound_type": "oral vowel", "word": "notre", "word_ipa": "notʁ", "position": 4}
+{"sound": "o", "sound_type": "oral vowel", "word": "faut", "word_ipa": "fo", "position": 5}
+{"sound": "o", "sound_type": "oral vowel", "word": "trop", "word_ipa": "tʁo", "position": 6}
+{"sound": "o", "sound_type": "oral vowel", "word": "beaucoup", "word_ipa": "boku", "position": 7}
+{"sound": "o", "sound_type": "oral vowel", "word": "vos", "word_ipa": "vo", "position": 8}
+{"sound": "o", "sound_type": "oral vowel", "word": "désolé", "word_ipa": "dezole", "position": 9}
+{"sound": "o", "sound_type": "oral vowel", "word": "nos", "word_ipa": "no", "position": 10}
+{"sound": "o", "sound_type": "oral vowel", "word": "choses", "word_ipa": "ʃoz", "position": 11}
+{"sound": "o", "sound_type": "oral vowel", "word": "moment", "word_ipa": "momɑ̃", "position": 12}
+{"sound": "o", "sound_type": "oral vowel", "word": "aurais", "word_ipa": "oʁɛ", "position": 13}
+{"sound": "o", "sound_type": "oral vowel", "word": "nouveau", "word_ipa": "nuvo", "position": 14}
+{"sound": "o", "sound_type": "oral vowel", "word": "police", "word_ipa": "polis", "position": 15}
+{"sound": "o", "sound_type": "oral vowel", "word": "aucun", "word_ipa": "okœ̃", "position": 16}
+{"sound": "o", "sound_type": "oral vowel", "word": "côté", "word_ipa": "kote", "position": 17}
+{"sound": "o", "sound_type": "oral vowel", "word": "cause", "word_ipa": "koz", "position": 18}
+{"sound": "o", "sound_type": "oral vowel", "word": "aura", "word_ipa": "oʁa", "position": 19}
+{"sound": "o", "sound_type": "oral vowel", "word": "gros", "word_ipa": "ɡʁo", "position": 20}
+{"sound": "o", "sound_type": "oral vowel", "word": "boulot", "word_ipa": "bulo", "position": 21}
+{"sound": "o", "sound_type": "oral vowel", "word": "plutôt", "word_ipa": "plyto", "position": 22}
+{"sound": "o", "sound_type": "oral vowel", "word": "bureau", "word_ipa": "byʁo", "position": 23}
+{"sound": "o", "sound_type": "oral vowel", "word": "beau", "word_ipa": "bo", "position": 24}
+{"sound": "o", "sound_type": "oral vowel", "word": "propos", "word_ipa": "pʁopo", "position": 25}
+{"sound": "o", "sound_type": "oral vowel", "word": "bientôt", "word_ipa": "bjɛ̃to", "position": 26}
+{"sound": "o", "sound_type": "oral vowel", "word": "numéro", "word_ipa": "nymeʁo", "position": 27}
+{"sound": "o", "sound_type": "oral vowel", "word": "autant", "word_ipa": "otɑ̃", "position": 28}
+{"sound": "o", "sound_type": "oral vowel", "word": "mauvais", "word_ipa": "movɛ", "position": 29}
+{"sound": "o", "sound_type": "oral vowel", "word": "mot", "word_ipa": "mo", "position": 30}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "mais", "word_ipa": "mɛ", "position": 1}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "elle", "word_ipa": "ɛl", "position": 2}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "avec", "word_ipa": "avɛk", "position": 3}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "fait", "word_ipa": "fɛ", "position": 4}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "était", "word_ipa": "etɛ", "position": 5}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "faire", "word_ipa": "fɛʁ", "position": 6}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "sais", "word_ipa": "sɛ", "position": 7}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "être", "word_ipa": "ɛtʁ", "position": 8}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "cette", "word_ipa": "sɛt", "position": 9}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "vais", "word_ipa": "vɛ", "position": 10}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "merci", "word_ipa": "mɛʁsi", "position": 11}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "très", "word_ipa": "tʁɛ", "position": 12}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "jamais", "word_ipa": "ʒamɛ", "position": 13}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "vraiment", "word_ipa": "vʁɛmɑ̃", "position": 14}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "même", "word_ipa": "mɛm", "position": 15}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "êtes", "word_ipa": "ɛt", "position": 16}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "quelque", "word_ipa": "kɛlkə", "position": 17}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "fais", "word_ipa": "fɛ", "position": 18}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "avait", "word_ipa": "avɛ", "position": 19}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "étais", "word_ipa": "etɛ", "position": 20}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "personne", "word_ipa": "pɛʁsɔn", "position": 21}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "avais", "word_ipa": "avɛ", "position": 22}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "père", "word_ipa": "pɛʁ", "position": 23}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "après", "word_ipa": "apʁɛ", "position": 24}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "ouais", "word_ipa": "wɛ", "position": 25}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "aime", "word_ipa": "ɛm", "position": 26}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "vrai", "word_ipa": "vʁɛ", "position": 27}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "mère", "word_ipa": "mɛʁ", "position": 28}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "quel", "word_ipa": "kɛl", "position": 29}
+{"sound": "ɛ", "sound_type": "oral vowel", "word": "maison", "word_ipa": "mɛzɔ̃", "position": 30}
+{"sound": "œ", "sound_type": "oral vowel", "word": "leur", "word_ipa": "lœʁ", "position": 1}
+{"sound": "œ", "sound_type": "oral vowel", "word": "seul", "word_ipa": "sœl", "position": 2}
+{"sound": "œ", "sound_type": "oral vowel", "word": "peur", "word_ipa": "pœʁ", "position": 3}
+{"sound": "œ", "sound_type": "oral vowel", "word": "seule", "word_ipa": "sœl", "position": 4}
+{"sound": "œ", "sound_type": "oral vowel", "word": "heure", "word_ipa": "œʁ", "position": 5}
+{"sound": "œ", "sound_type": "oral vowel", "word": "leurs", "word_ipa": "lœʁ", "position": 6}
+{"sound": "œ", "sound_type": "oral vowel", "word": "docteur", "word_ipa": "dɔktœʁ", "position": 7}
+{"sound": "œ", "sound_type": "oral vowel", "word": "meilleur", "word_ipa": "mɛjœʁ", "position": 8}
+{"sound": "œ", "sound_type": "oral vowel", "word": "cœur", "word_ipa": "kœʁ", "position": 9}
+{"sound": "œ", "sound_type": "oral vowel", "word": "veulent", "word_ipa": "vœl", "position": 10}
+{"sound": "œ", "sound_type": "oral vowel", "word": "meurtre", "word_ipa": "mœʁtʁ", "position": 11}
+{"sound": "œ", "sound_type": "oral vowel", "word": "seigneur", "word_ipa": "sɛnjœʁ", "position": 12}
+{"sound": "œ", "sound_type": "oral vowel", "word": "erreur", "word_ipa": "ɛʁœʁ", "position": 13}
+{"sound": "œ", "sound_type": "oral vowel", "word": "intérieur", "word_ipa": "ɛ̃teʁjœʁ", "position": 14}
+{"sound": "œ", "sound_type": "oral vowel", "word": "honneur", "word_ipa": "ɔnœʁ", "position": 15}
+{"sound": "œ", "sound_type": "oral vowel", "word": "ailleurs", "word_ipa": "ajœʁ", "position": 16}
+{"sound": "œ", "sound_type": "oral vowel", "word": "sœur", "word_ipa": "sœʁ", "position": 17}
+{"sound": "œ", "sound_type": "oral vowel", "word": "plusieurs", "word_ipa": "plyzjœʁ", "position": 18}
+{"sound": "œ", "sound_type": "oral vowel", "word": "neuf", "word_ipa": "nœf", "position": 19}
+{"sound": "œ", "sound_type": "oral vowel", "word": "inspecteur", "word_ipa": "ɛ̃spɛktœʁ", "position": 20}
+{"sound": "œ", "sound_type": "oral vowel", "word": "club", "word_ipa": "klœb", "position": 21}
+{"sound": "œ", "sound_type": "oral vowel", "word": "professeur", "word_ipa": "pʁofɛsœʁ", "position": 22}
+{"sound": "œ", "sound_type": "oral vowel", "word": "tueur", "word_ipa": "tyœʁ", "position": 23}
+{"sound": "œ", "sound_type": "oral vowel", "word": "gueule", "word_ipa": "ɡœl", "position": 24}
+{"sound": "œ", "sound_type": "oral vowel", "word": "œil", "word_ipa": "œj", "position": 25}
+{"sound": "œ", "sound_type": "oral vowel", "word": "seuls", "word_ipa": "sœl", "position": 26}
+{"sound": "œ", "sound_type": "oral vowel", "word": "directeur", "word_ipa": "diʁɛktœʁ", "position": 27}
+{"sound": "œ", "sound_type": "oral vowel", "word": "douleur", "word_ipa": "dulœʁ", "position": 28}
+{"sound": "œ", "sound_type": "oral vowel", "word": "ordinateur", "word_ipa": "ɔʁdinatœʁ", "position": 29}
+{"sound": "œ", "sound_type": "oral vowel", "word": "fleurs", "word_ipa": "flœʁ", "position": 30}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "comme", "word_ipa": "kɔm", "position": 1}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "alors", "word_ipa": "alɔʁ", "position": 2}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "chose", "word_ipa": "ʃɔz", "position": 3}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "encore", "word_ipa": "ɑ̃kɔʁ", "position": 4}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "accord", "word_ipa": "akɔʁ", "position": 5}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "personne", "word_ipa": "pɛʁsɔn", "position": 6}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "homme", "word_ipa": "ɔm", "position": 7}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "bonne", "word_ipa": "bɔn", "position": 8}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "mort", "word_ipa": "mɔʁ", "position": 9}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "problème", "word_ipa": "pʁɔblɛm", "position": 10}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "sommes", "word_ipa": "sɔm", "position": 11}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "connais", "word_ipa": "kɔnɛ", "position": 12}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "porte", "word_ipa": "pɔʁt", "position": 13}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "sortir", "word_ipa": "sɔʁtiʁ", "position": 14}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "importe", "word_ipa": "ɛ̃pɔʁt", "position": 15}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "donner", "word_ipa": "dɔne", "position": 16}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "corps", "word_ipa": "kɔʁ", "position": 17}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "donné", "word_ipa": "dɔne", "position": 18}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "possible", "word_ipa": "pɔsibl", "position": 19}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "dehors", "word_ipa": "dəɔʁ", "position": 20}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "docteur", "word_ipa": "dɔktœʁ", "position": 21}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "école", "word_ipa": "ekɔl", "position": 22}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "téléphone", "word_ipa": "telefɔn", "position": 23}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "fort", "word_ipa": "fɔʁ", "position": 24}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "abord", "word_ipa": "abɔʁ", "position": 25}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "propre", "word_ipa": "pʁɔpʁ", "position": 26}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "adore", "word_ipa": "adɔʁ", "position": 27}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "impossible", "word_ipa": "ɛ̃pɔsibl", "position": 28}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "sorte", "word_ipa": "sɔʁt", "position": 29}
+{"sound": "ɔ", "sound_type": "oral vowel", "word": "dollars", "word_ipa": "dɔlaʁ", "position": 30}
+{"sound": "ə", "sound_type": "oral vowel", "word": "quelque", "word_ipa": "kɛlkə", "position": 1}
+{"sound": "ə", "sound_type": "oral vowel", "word": "besoin", "word_ipa": "bəzwɛ̃", "position": 2}
+{"sound": "ə", "sound_type": "oral vowel", "word": "depuis", "word_ipa": "dəpyi", "position": 3}
+{"sound": "ə", "sound_type": "oral vowel", "word": "sera", "word_ipa": "səʁa", "position": 4}
+{"sound": "ə", "sound_type": "oral vowel", "word": "petit", "word_ipa": "pəti", "position": 5}
+{"sound": "ə", "sound_type": "oral vowel", "word": "cela", "word_ipa": "səla", "position": 6}
+{"sound": "ə", "sound_type": "oral vowel", "word": "monsieur", "word_ipa": "məsjø", "position": 7}
+{"sound": "ə", "sound_type": "oral vowel", "word": "regarde", "word_ipa": "ʁəɡaʁd", "position": 8}
+{"sound": "ə", "sound_type": "oral vowel", "word": "serait", "word_ipa": "səʁɛ", "position": 9}
+{"sound": "ə", "sound_type": "oral vowel", "word": "venir", "word_ipa": "vəniʁ", "position": 10}
+{"sound": "ə", "sound_type": "oral vowel", "word": "demain", "word_ipa": "dəmɛ̃", "position": 11}
+{"sound": "ə", "sound_type": "oral vowel", "word": "devrais", "word_ipa": "dəvʁɛ", "position": 12}
+{"sound": "ə", "sound_type": "oral vowel", "word": "demande", "word_ipa": "dəmɑ̃d", "position": 13}
+{"sound": "ə", "sound_type": "oral vowel", "word": "revoir", "word_ipa": "ʁəvwaʁ", "position": 14}
+{"sound": "ə", "sound_type": "oral vowel", "word": "premier", "word_ipa": "pʁəmje", "position": 15}
+{"sound": "ə", "sound_type": "oral vowel", "word": "venu", "word_ipa": "vəny", "position": 16}
+{"sound": "ə", "sound_type": "oral vowel", "word": "venez", "word_ipa": "vəne", "position": 17}
+{"sound": "ə", "sound_type": "oral vowel", "word": "devant", "word_ipa": "dəvɑ̃", "position": 18}
+{"sound": "ə", "sound_type": "oral vowel", "word": "celui", "word_ipa": "səlyi", "position": 19}
+{"sound": "ə", "sound_type": "oral vowel", "word": "dehors", "word_ipa": "dəɔʁ", "position": 20}
+{"sound": "ə", "sound_type": "oral vowel", "word": "semaine", "word_ipa": "səmɛn", "position": 21}
+{"sound": "ə", "sound_type": "oral vowel", "word": "devez", "word_ipa": "dəve", "position": 22}
+{"sound": "ə", "sound_type": "oral vowel", "word": "dessus", "word_ipa": "dəsy", "position": 23}
+{"sound": "ə", "sound_type": "oral vowel", "word": "exactement", "word_ipa": "ɛɡzaktəmɑ̃", "position": 24}
+{"sound": "ə", "sound_type": "oral vowel", "word": "presque", "word_ipa": "pʁɛskə", "position": 25}
+{"sound": "ə", "sound_type": "oral vowel", "word": "retour", "word_ipa": "ʁətuʁ", "position": 26}
+{"sound": "ə", "sound_type": "oral vowel", "word": "fera", "word_ipa": "fəʁa", "position": 27}
+{"sound": "ə", "sound_type": "oral vowel", "word": "devoir", "word_ipa": "dəvwaʁ", "position": 28}
+{"sound": "ə", "sound_type": "oral vowel", "word": "ceci", "word_ipa": "səsi", "position": 29}
+{"sound": "ə", "sound_type": "oral vowel", "word": "faisait", "word_ipa": "fəzɛ", "position": 30}
+{"sound": "a", "sound_type": "oral vowel", "word": "pas", "word_ipa": "pa", "position": 1}
+{"sound": "a", "sound_type": "oral vowel", "word": "avec", "word_ipa": "avɛk", "position": 2}
+{"sound": "a", "sound_type": "oral vowel", "word": "moi", "word_ipa": "mwa", "position": 3}
+{"sound": "a", "sound_type": "oral vowel", "word": "quoi", "word_ipa": "kwa", "position": 4}
+{"sound": "a", "sound_type": "oral vowel", "word": "toi", "word_ipa": "twa", "position": 5}
+{"sound": "a", "sound_type": "oral vowel", "word": "pourquoi", "word_ipa": "puʁkwa", "position": 6}
+{"sound": "a", "sound_type": "oral vowel", "word": "avez", "word_ipa": "ave", "position": 7}
+{"sound": "a", "sound_type": "oral vowel", "word": "alors", "word_ipa": "alɔʁ", "position": 8}
+{"sound": "a", "sound_type": "oral vowel", "word": "par", "word_ipa": "paʁ", "position": 9}
+{"sound": "a", "sound_type": "oral vowel", "word": "jamais", "word_ipa": "ʒamɛ", "position": 10}
+{"sound": "a", "sound_type": "oral vowel", "word": "avoir", "word_ipa": "avwaʁ", "position": 11}
+{"sound": "a", "sound_type": "oral vowel", "word": "voir", "word_ipa": "vwaʁ", "position": 12}
+{"sound": "a", "sound_type": "oral vowel", "word": "allez", "word_ipa": "ale", "position": 13}
+{"sound": "a", "sound_type": "oral vowel", "word": "avait", "word_ipa": "avɛ", "position": 14}
+{"sound": "a", "sound_type": "oral vowel", "word": "accord", "word_ipa": "akɔʁ", "position": 15}
+{"sound": "a", "sound_type": "oral vowel", "word": "dois", "word_ipa": "dwa", "position": 16}
+{"sound": "a", "sound_type": "oral vowel", "word": "aller", "word_ipa": "ale", "position": 17}
+{"sound": "a", "sound_type": "oral vowel", "word": "fois", "word_ipa": "fwa", "position": 18}
+{"sound": "a", "sound_type": "oral vowel", "word": "parce", "word_ipa": "paʁs", "position": 19}
+{"sound": "a", "sound_type": "oral vowel", "word": "avant", "word_ipa": "avɑ̃", "position": 20}
+{"sound": "a", "sound_type": "oral vowel", "word": "parler", "word_ipa": "paʁle", "position": 21}
+{"sound": "a", "sound_type": "oral vowel", "word": "avais", "word_ipa": "avɛ", "position": 22}
+{"sound": "a", "sound_type": "oral vowel", "word": "crois", "word_ipa": "kʁwa", "position": 23}
+{"sound": "a", "sound_type": "oral vowel", "word": "après", "word_ipa": "apʁɛ", "position": 24}
+{"sound": "a", "sound_type": "oral vowel", "word": "femme", "word_ipa": "fam", "position": 25}
+{"sound": "a", "sound_type": "oral vowel", "word": "doit", "word_ipa": "dwa", "position": 26}
+{"sound": "a", "sound_type": "oral vowel", "word": "mal", "word_ipa": "mal", "position": 27}
+{"sound": "a", "sound_type": "oral vowel", "word": "déjà", "word_ipa": "deʒa", "position": 28}
+{"sound": "a", "sound_type": "oral vowel", "word": "vas", "word_ipa": "va", "position": 29}
+{"sound": "a", "sound_type": "oral vowel", "word": "sera", "word_ipa": "səʁa", "position": 30}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "grâce", "word_ipa": "ɡʁas", "position": 1}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "âge", "word_ipa": "aʒ", "position": 2}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "âme", "word_ipa": "am", "position": 3}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "lâche", "word_ipa": "laʃ", "position": 4}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "gâteau", "word_ipa": "ɡato", "position": 5}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "bâtiment", "word_ipa": "batimɑ̃", "position": 6}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "hâte", "word_ipa": "at", "position": 7}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "château", "word_ipa": "ʃato", "position": 8}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "crâne", "word_ipa": "kʁan", "position": 9}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "tâche", "word_ipa": "taʃ", "position": 10}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "gâcher", "word_ipa": "ɡaʃe", "position": 11}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "dégâts", "word_ipa": "deɡa", "position": 12}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "gâché", "word_ipa": "ɡaʃe", "position": 13}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "fâché", "word_ipa": "faʃe", "position": 14}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "âmes", "word_ipa": "am", "position": 15}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "câble", "word_ipa": "kabl", "position": 16}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "bâton", "word_ipa": "batɔ̃", "position": 17}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "bâtard", "word_ipa": "bataʁ", "position": 18}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "lâché", "word_ipa": "laʃe", "position": 19}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "câlin", "word_ipa": "kalɛ̃", "position": 20}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "mâle", "word_ipa": "mal", "position": 21}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "pâle", "word_ipa": "pal", "position": 22}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "âgé", "word_ipa": "aʒe", "position": 23}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "blâmer", "word_ipa": "blame", "position": 24}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "appât", "word_ipa": "apa", "position": 25}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "âne", "word_ipa": "an", "position": 26}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "gâchis", "word_ipa": "ɡaʃi", "position": 27}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "relâcher", "word_ipa": "ʁəlaʃe", "position": 28}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "âgée", "word_ipa": "aʒe", "position": 29}
+{"sound": "ɑ", "sound_type": "oral vowel", "word": "pâtes", "word_ipa": "pat", "position": 30}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "bien", "word_ipa": "bjɛ̃", "position": 1}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "rien", "word_ipa": "ʁiɛ̃", "position": 2}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "maintenant", "word_ipa": "mɛ̃tnɑ̃", "position": 3}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "besoin", "word_ipa": "bəzwɛ̃", "position": 4}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "viens", "word_ipa": "vjɛ̃", "position": 5}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "moins", "word_ipa": "mwɛ̃", "position": 6}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "demain", "word_ipa": "dəmɛ̃", "position": 7}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "combien", "word_ipa": "kɔ̃bjɛ̃", "position": 8}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "vient", "word_ipa": "vjɛ̃", "position": 9}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "importe", "word_ipa": "ɛ̃pɔʁt", "position": 10}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "putain", "word_ipa": "pytɛ̃", "position": 11}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "train", "word_ipa": "tʁɛ̃", "position": 12}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "point", "word_ipa": "pwɛ̃", "position": 13}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "main", "word_ipa": "mɛ̃", "position": 14}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "tiens", "word_ipa": "tjɛ̃", "position": 15}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "matin", "word_ipa": "matɛ̃", "position": 16}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "enfin", "word_ipa": "ɑ̃fɛ̃", "position": 17}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "loin", "word_ipa": "lwɛ̃", "position": 18}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "fin", "word_ipa": "fɛ̃", "position": 19}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "mains", "word_ipa": "mɛ̃", "position": 20}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "plein", "word_ipa": "plɛ̃", "position": 21}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "souviens", "word_ipa": "suvjɛ̃", "position": 22}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "bientôt", "word_ipa": "bjɛ̃to", "position": 23}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "cinq", "word_ipa": "sɛ̃k", "position": 24}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "ainsi", "word_ipa": "ɛ̃si", "position": 25}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "instant", "word_ipa": "ɛ̃stɑ̃", "position": 26}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "impossible", "word_ipa": "ɛ̃pɔsibl", "position": 27}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "inquiète", "word_ipa": "ɛ̃kjɛt", "position": 28}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "reviens", "word_ipa": "ʁəvjɛ̃", "position": 29}
+{"sound": "ɛ̃", "sound_type": "nasal vowel", "word": "chien", "word_ipa": "ʃjɛ̃", "position": 30}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "aucun", "word_ipa": "okœ̃", "position": 1}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "chacun", "word_ipa": "ʃakœ̃", "position": 2}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "commun", "word_ipa": "kɔmœ̃", "position": 3}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "lundi", "word_ipa": "lœ̃di", "position": 4}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "parfum", "word_ipa": "paʁfœ̃", "position": 5}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "emprunter", "word_ipa": "ɑ̃pʁœ̃te", "position": 6}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "emprunt", "word_ipa": "ɑ̃pʁœ̃", "position": 7}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "humble", "word_ipa": "œ̃bl", "position": 8}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "défunt", "word_ipa": "defœ̃", "position": 9}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "brun", "word_ipa": "bʁœ̃", "position": 10}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "opportun", "word_ipa": "ɔpɔʁtœ̃", "position": 11}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "importun", "word_ipa": "ɛ̃pɔʁtœ̃", "position": 12}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "tribun", "word_ipa": "tʁibœ̃", "position": 13}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "parfums", "word_ipa": "paʁfœ̃", "position": 14}
+{"sound": "œ̃", "sound_type": "nasal vowel", "word": "communs", "word_ipa": "kɔmœ̃", "position": 15}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "dans", "word_ipa": "dɑ̃", "position": 1}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "quand", "word_ipa": "kɑ̃", "position": 2}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "comment", "word_ipa": "kɔmɑ̃", "position": 3}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "vraiment", "word_ipa": "vʁɛmɑ̃", "position": 4}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "maintenant", "word_ipa": "mɛ̃tnɑ̃", "position": 5}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "temps", "word_ipa": "tɑ̃", "position": 6}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "encore", "word_ipa": "ɑ̃kɔʁ", "position": 7}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "sans", "word_ipa": "sɑ̃", "position": 8}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "avant", "word_ipa": "avɑ̃", "position": 9}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "pense", "word_ipa": "pɑ̃s", "position": 10}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "gens", "word_ipa": "ʒɑ̃", "position": 11}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "prendre", "word_ipa": "pʁɑ̃dʁ", "position": 12}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "argent", "word_ipa": "aʁʒɑ̃", "position": 13}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "maman", "word_ipa": "mamɑ̃", "position": 14}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "moment", "word_ipa": "momɑ̃", "position": 15}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "entre", "word_ipa": "ɑ̃tʁ", "position": 16}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "attends", "word_ipa": "atɑ̃", "position": 17}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "enfants", "word_ipa": "ɑ̃fɑ̃", "position": 18}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "pendant", "word_ipa": "pɑ̃dɑ̃", "position": 19}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "chance", "word_ipa": "ʃɑ̃s", "position": 20}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "grand", "word_ipa": "ɡʁɑ̃", "position": 21}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "tant", "word_ipa": "tɑ̃", "position": 22}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "sens", "word_ipa": "sɑ̃s", "position": 23}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "comprends", "word_ipa": "kɔ̃pʁɑ̃", "position": 24}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "entendu", "word_ipa": "ɑ̃tɑ̃dy", "position": 25}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "ensemble", "word_ipa": "ɑ̃sɑ̃bl", "position": 26}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "demande", "word_ipa": "dəmɑ̃d", "position": 27}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "pensais", "word_ipa": "pɑ̃sɛ", "position": 28}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "genre", "word_ipa": "ʒɑ̃ʁ", "position": 29}
+{"sound": "ɑ̃", "sound_type": "nasal vowel", "word": "seulement", "word_ipa": "sølmɑ̃", "position": 30}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "non", "word_ipa": "nɔ̃", "position": 1}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "sont", "word_ipa": "sɔ̃", "position": 2}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "bon", "word_ipa": "bɔ̃", "position": 3}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "donc", "word_ipa": "dɔ̃k", "position": 4}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "monde", "word_ipa": "mɔ̃d", "position": 5}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "avons", "word_ipa": "avɔ̃", "position": 6}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "maison", "word_ipa": "mɛzɔ̃", "position": 7}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "nom", "word_ipa": "nɔ̃", "position": 8}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "bonjour", "word_ipa": "bɔ̃ʒuʁ", "position": 9}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "raison", "word_ipa": "ʁɛzɔ̃", "position": 10}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "combien", "word_ipa": "kɔ̃bjɛ̃", "position": 11}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "contre", "word_ipa": "kɔ̃tʁ", "position": 12}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "comprends", "word_ipa": "kɔ̃pʁɑ̃", "position": 13}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "allons", "word_ipa": "alɔ̃", "position": 14}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "question", "word_ipa": "kɛstjɔ̃", "position": 15}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "vont", "word_ipa": "vɔ̃", "position": 16}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "longtemps", "word_ipa": "lɔ̃tɑ̃", "position": 17}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "attention", "word_ipa": "atɑ̃sjɔ̃", "position": 18}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "façon", "word_ipa": "fasɔ̃", "position": 19}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "dont", "word_ipa": "dɔ̃", "position": 20}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "pardon", "word_ipa": "paʁdɔ̃", "position": 21}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "compte", "word_ipa": "kɔ̃t", "position": 22}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "confiance", "word_ipa": "kɔ̃fjɑ̃s", "position": 23}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "garçon", "word_ipa": "ɡaʁsɔ̃", "position": 24}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "font", "word_ipa": "fɔ̃", "position": 25}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "tomber", "word_ipa": "tɔ̃be", "position": 26}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "prison", "word_ipa": "pʁizɔ̃", "position": 27}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "montrer", "word_ipa": "mɔ̃tʁe", "position": 28}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "devons", "word_ipa": "dəvɔ̃", "position": 29}
+{"sound": "ɔ̃", "sound_type": "nasal vowel", "word": "seconde", "word_ipa": "səɡɔ̃d", "position": 30}
+{"sound": "p", "sound_type": "consonant", "word": "pas", "word_ipa": "pa", "position": 1}
+{"sound": "p", "sound_type": "consonant", "word": "pour", "word_ipa": "puʁ", "position": 2}
+{"sound": "p", "sound_type": "consonant", "word": "plus", "word_ipa": "ply", "position": 3}
+{"sound": "p", "sound_type": "consonant", "word": "pourquoi", "word_ipa": "puʁkwa", "position": 4}
+{"sound": "p", "sound_type": "consonant", "word": "peux", "word_ipa": "pø", "position": 5}
+{"sound": "p", "sound_type": "consonant", "word": "par", "word_ipa": "paʁ", "position": 6}
+{"sound": "p", "sound_type": "consonant", "word": "peut", "word_ipa": "pø", "position": 7}
+{"sound": "p", "sound_type": "consonant", "word": "peu", "word_ipa": "pø", "position": 8}
+{"sound": "p", "sound_type": "consonant", "word": "parce", "word_ipa": "paʁs", "position": 9}
+{"sound": "p", "sound_type": "consonant", "word": "parler", "word_ipa": "paʁle", "position": 10}
+{"sound": "p", "sound_type": "consonant", "word": "personne", "word_ipa": "pɛʁsɔn", "position": 11}
+{"sound": "p", "sound_type": "consonant", "word": "père", "word_ipa": "pɛʁ", "position": 12}
+{"sound": "p", "sound_type": "consonant", "word": "après", "word_ipa": "apʁɛ", "position": 13}
+{"sound": "p", "sound_type": "consonant", "word": "pense", "word_ipa": "pɑ̃s", "position": 14}
+{"sound": "p", "sound_type": "consonant", "word": "depuis", "word_ipa": "dəpyi", "position": 15}
+{"sound": "p", "sound_type": "consonant", "word": "petit", "word_ipa": "pəti", "position": 16}
+{"sound": "p", "sound_type": "consonant", "word": "passé", "word_ipa": "pase", "position": 17}
+{"sound": "p", "sound_type": "consonant", "word": "prendre", "word_ipa": "pʁɑ̃dʁ", "position": 18}
+{"sound": "p", "sound_type": "consonant", "word": "papa", "word_ipa": "papa", "position": 19}
+{"sound": "p", "sound_type": "consonant", "word": "passe", "word_ipa": "pas", "position": 20}
+{"sound": "p", "sound_type": "consonant", "word": "problème", "word_ipa": "pʁɔblɛm", "position": 21}
+{"sound": "p", "sound_type": "consonant", "word": "peur", "word_ipa": "pœʁ", "position": 22}
+{"sound": "p", "sound_type": "consonant", "word": "plaît", "word_ipa": "plɛ", "position": 23}
+{"sound": "p", "sound_type": "consonant", "word": "pourrait", "word_ipa": "puʁɛ", "position": 24}
+{"sound": "p", "sound_type": "consonant", "word": "pris", "word_ipa": "pʁi", "position": 25}
+{"sound": "p", "sound_type": "consonant", "word": "appelle", "word_ipa": "apɛl", "position": 26}
+{"sound": "p", "sound_type": "consonant", "word": "partir", "word_ipa": "paʁtiʁ", "position": 27}
+{"sound": "p", "sound_type": "consonant", "word": "pendant", "word_ipa": "pɑ̃dɑ̃", "position": 28}
+{"sound": "p", "sound_type": "consonant", "word": "part", "word_ipa": "paʁ", "position": 29}
+{"sound": "p", "sound_type": "consonant", "word": "puis", "word_ipa": "pyi", "position": 30}
+{"sound": "b", "sound_type": "consonant", "word": "bien", "word_ipa": "bjɛ̃", "position": 1}
+{"sound": "b", "sound_type": "consonant", "word": "bon", "word_ipa": "bɔ̃", "position": 2}
+{"sound": "b", "sound_type": "consonant", "word": "besoin", "word_ipa": "bəzwɛ̃", "position": 3}
+{"sound": "b", "sound_type": "consonant", "word": "beaucoup", "word_ipa": "boku", "position": 4}
+{"sound": "b", "sound_type": "consonant", "word": "bonne", "word_ipa": "bɔn", "position": 5}
+{"sound": "b", "sound_type": "consonant", "word": "bonjour", "word_ipa": "bɔ̃ʒuʁ", "position": 6}
+{"sound": "b", "sound_type": "consonant", "word": "problème", "word_ipa": "pʁɔblɛm", "position": 7}
+{"sound": "b", "sound_type": "consonant", "word": "combien", "word_ipa": "kɔ̃bjɛ̃", "position": 8}
+{"sound": "b", "sound_type": "consonant", "word": "ensemble", "word_ipa": "ɑ̃sɑ̃bl", "position": 9}
+{"sound": "b", "sound_type": "consonant", "word": "bébé", "word_ipa": "bebe", "position": 10}
+{"sound": "b", "sound_type": "consonant", "word": "bas", "word_ipa": "ba", "position": 11}
+{"sound": "b", "sound_type": "consonant", "word": "chambre", "word_ipa": "ʃɑ̃bʁ", "position": 12}
+{"sound": "b", "sound_type": "consonant", "word": "belle", "word_ipa": "bɛl", "position": 13}
+{"sound": "b", "sound_type": "consonant", "word": "boulot", "word_ipa": "bulo", "position": 14}
+{"sound": "b", "sound_type": "consonant", "word": "bureau", "word_ipa": "byʁo", "position": 15}
+{"sound": "b", "sound_type": "consonant", "word": "possible", "word_ipa": "pɔsibl", "position": 16}
+{"sound": "b", "sound_type": "consonant", "word": "beau", "word_ipa": "bo", "position": 17}
+{"sound": "b", "sound_type": "consonant", "word": "ben", "word_ipa": "bɛn", "position": 18}
+{"sound": "b", "sound_type": "consonant", "word": "tomber", "word_ipa": "tɔ̃be", "position": 19}
+{"sound": "b", "sound_type": "consonant", "word": "bientôt", "word_ipa": "bjɛ̃to", "position": 20}
+{"sound": "b", "sound_type": "consonant", "word": "semble", "word_ipa": "sɑ̃bl", "position": 21}
+{"sound": "b", "sound_type": "consonant", "word": "abord", "word_ipa": "abɔʁ", "position": 22}
+{"sound": "b", "sound_type": "consonant", "word": "impossible", "word_ipa": "ɛ̃pɔsibl", "position": 23}
+{"sound": "b", "sound_type": "consonant", "word": "bizarre", "word_ipa": "bizaʁ", "position": 24}
+{"sound": "b", "sound_type": "consonant", "word": "oublié", "word_ipa": "ublie", "position": 25}
+{"sound": "b", "sound_type": "consonant", "word": "bras", "word_ipa": "bʁa", "position": 26}
+{"sound": "b", "sound_type": "consonant", "word": "boire", "word_ipa": "bwaʁ", "position": 27}
+{"sound": "b", "sound_type": "consonant", "word": "bois", "word_ipa": "bwa", "position": 28}
+{"sound": "b", "sound_type": "consonant", "word": "début", "word_ipa": "deby", "position": 29}
+{"sound": "b", "sound_type": "consonant", "word": "bonsoir", "word_ipa": "bɔ̃swaʁ", "position": 30}
+{"sound": "t", "sound_type": "consonant", "word": "tu", "word_ipa": "ty", "position": 1}
+{"sound": "t", "sound_type": "consonant", "word": "tout", "word_ipa": "tu", "position": 2}
+{"sound": "t", "sound_type": "consonant", "word": "était", "word_ipa": "etɛ", "position": 3}
+{"sound": "t", "sound_type": "consonant", "word": "être", "word_ipa": "ɛtʁ", "position": 4}
+{"sound": "t", "sound_type": "consonant", "word": "toi", "word_ipa": "twa", "position": 5}
+{"sound": "t", "sound_type": "consonant", "word": "votre", "word_ipa": "votʁ", "position": 6}
+{"sound": "t", "sound_type": "consonant", "word": "cette", "word_ipa": "sɛt", "position": 7}
+{"sound": "t", "sound_type": "consonant", "word": "juste", "word_ipa": "ʒyst", "position": 8}
+{"sound": "t", "sound_type": "consonant", "word": "très", "word_ipa": "tʁɛ", "position": 9}
+{"sound": "t", "sound_type": "consonant", "word": "été", "word_ipa": "ete", "position": 10}
+{"sound": "t", "sound_type": "consonant", "word": "maintenant", "word_ipa": "mɛ̃tnɑ̃", "position": 11}
+{"sound": "t", "sound_type": "consonant", "word": "tous", "word_ipa": "tus", "position": 12}
+{"sound": "t", "sound_type": "consonant", "word": "êtes", "word_ipa": "ɛt", "position": 13}
+{"sound": "t", "sound_type": "consonant", "word": "autre", "word_ipa": "otʁ", "position": 14}
+{"sound": "t", "sound_type": "consonant", "word": "temps", "word_ipa": "tɑ̃", "position": 15}
+{"sound": "t", "sound_type": "consonant", "word": "toujours", "word_ipa": "tuʒuʁ", "position": 16}
+{"sound": "t", "sound_type": "consonant", "word": "notre", "word_ipa": "notʁ", "position": 17}
+{"sound": "t", "sound_type": "consonant", "word": "étais", "word_ipa": "etɛ", "position": 18}
+{"sound": "t", "sound_type": "consonant", "word": "trop", "word_ipa": "tʁo", "position": 19}
+{"sound": "t", "sound_type": "consonant", "word": "petit", "word_ipa": "pəti", "position": 20}
+{"sound": "t", "sound_type": "consonant", "word": "toute", "word_ipa": "tut", "position": 21}
+{"sound": "t", "sound_type": "consonant", "word": "cet", "word_ipa": "sɛt", "position": 22}
+{"sound": "t", "sound_type": "consonant", "word": "reste", "word_ipa": "ʁɛst", "position": 23}
+{"sound": "t", "sound_type": "consonant", "word": "entre", "word_ipa": "ɑ̃tʁ", "position": 24}
+{"sound": "t", "sound_type": "consonant", "word": "trouvé", "word_ipa": "tʁuve", "position": 25}
+{"sound": "t", "sound_type": "consonant", "word": "attends", "word_ipa": "atɑ̃", "position": 26}
+{"sound": "t", "sound_type": "consonant", "word": "trois", "word_ipa": "tʁwa", "position": 27}
+{"sound": "t", "sound_type": "consonant", "word": "travail", "word_ipa": "tʁavaj", "position": 28}
+{"sound": "t", "sound_type": "consonant", "word": "tête", "word_ipa": "tɛt", "position": 29}
+{"sound": "t", "sound_type": "consonant", "word": "faites", "word_ipa": "fɛt", "position": 30}
+{"sound": "d", "sound_type": "consonant", "word": "dans", "word_ipa": "dɑ̃", "position": 1}
+{"sound": "d", "sound_type": "consonant", "word": "dit", "word_ipa": "di", "position": 2}
+{"sound": "d", "sound_type": "consonant", "word": "dire", "word_ipa": "diʁ", "position": 3}
+{"sound": "d", "sound_type": "consonant", "word": "deux", "word_ipa": "dø", "position": 4}
+{"sound": "d", "sound_type": "consonant", "word": "dois", "word_ipa": "dwa", "position": 5}
+{"sound": "d", "sound_type": "consonant", "word": "donc", "word_ipa": "dɔ̃k", "position": 6}
+{"sound": "d", "sound_type": "consonant", "word": "monde", "word_ipa": "mɔ̃d", "position": 7}
+{"sound": "d", "sound_type": "consonant", "word": "dieu", "word_ipa": "djø", "position": 8}
+{"sound": "d", "sound_type": "consonant", "word": "doit", "word_ipa": "dwa", "position": 9}
+{"sound": "d", "sound_type": "consonant", "word": "déjà", "word_ipa": "deʒa", "position": 10}
+{"sound": "d", "sound_type": "consonant", "word": "depuis", "word_ipa": "dəpyi", "position": 11}
+{"sound": "d", "sound_type": "consonant", "word": "dis", "word_ipa": "di", "position": 12}
+{"sound": "d", "sound_type": "consonant", "word": "désolé", "word_ipa": "dezole", "position": 13}
+{"sound": "d", "sound_type": "consonant", "word": "prendre", "word_ipa": "pʁɑ̃dʁ", "position": 14}
+{"sound": "d", "sound_type": "consonant", "word": "aider", "word_ipa": "ɛde", "position": 15}
+{"sound": "d", "sound_type": "consonant", "word": "regarde", "word_ipa": "ʁəɡaʁd", "position": 16}
+{"sound": "d", "sound_type": "consonant", "word": "dû", "word_ipa": "dy", "position": 17}
+{"sound": "d", "sound_type": "consonant", "word": "merde", "word_ipa": "mɛʁd", "position": 18}
+{"sound": "d", "sound_type": "consonant", "word": "pendant", "word_ipa": "pɑ̃dɑ̃", "position": 19}
+{"sound": "d", "sound_type": "consonant", "word": "idée", "word_ipa": "ide", "position": 20}
+{"sound": "d", "sound_type": "consonant", "word": "demain", "word_ipa": "dəmɛ̃", "position": 21}
+{"sound": "d", "sound_type": "consonant", "word": "entendu", "word_ipa": "ɑ̃tɑ̃dy", "position": 22}
+{"sound": "d", "sound_type": "consonant", "word": "devrais", "word_ipa": "dəvʁɛ", "position": 23}
+{"sound": "d", "sound_type": "consonant", "word": "aide", "word_ipa": "ɛd", "position": 24}
+{"sound": "d", "sound_type": "consonant", "word": "dernière", "word_ipa": "dɛʁnjɛʁ", "position": 25}
+{"sound": "d", "sound_type": "consonant", "word": "demande", "word_ipa": "dəmɑ̃d", "position": 26}
+{"sound": "d", "sound_type": "consonant", "word": "donner", "word_ipa": "dɔne", "position": 27}
+{"sound": "d", "sound_type": "consonant", "word": "endroit", "word_ipa": "ɑ̃dʁwa", "position": 28}
+{"sound": "d", "sound_type": "consonant", "word": "donné", "word_ipa": "dɔne", "position": 29}
+{"sound": "d", "sound_type": "consonant", "word": "dont", "word_ipa": "dɔ̃", "position": 30}
+{"sound": "k", "sound_type": "consonant", "word": "avec", "word_ipa": "avɛk", "position": 1}
+{"sound": "k", "sound_type": "consonant", "word": "quoi", "word_ipa": "kwa", "position": 2}
+{"sound": "k", "sound_type": "consonant", "word": "comme", "word_ipa": "kɔm", "position": 3}
+{"sound": "k", "sound_type": "consonant", "word": "pourquoi", "word_ipa": "puʁkwa", "position": 4}
+{"sound": "k", "sound_type": "consonant", "word": "quand", "word_ipa": "kɑ̃", "position": 5}
+{"sound": "k", "sound_type": "consonant", "word": "quelque", "word_ipa": "kɛlkə", "position": 6}
+{"sound": "k", "sound_type": "consonant", "word": "encore", "word_ipa": "ɑ̃kɔʁ", "position": 7}
+{"sound": "k", "sound_type": "consonant", "word": "accord", "word_ipa": "akɔʁ", "position": 8}
+{"sound": "k", "sound_type": "consonant", "word": "donc", "word_ipa": "dɔ̃k", "position": 9}
+{"sound": "k", "sound_type": "consonant", "word": "crois", "word_ipa": "kʁwa", "position": 10}
+{"sound": "k", "sound_type": "consonant", "word": "beaucoup", "word_ipa": "boku", "position": 11}
+{"sound": "k", "sound_type": "consonant", "word": "quel", "word_ipa": "kɛl", "position": 12}
+{"sound": "k", "sound_type": "consonant", "word": "quelle", "word_ipa": "kɛl", "position": 13}
+{"sound": "k", "sound_type": "consonant", "word": "truc", "word_ipa": "tʁyk", "position": 14}
+{"sound": "k", "sound_type": "consonant", "word": "connais", "word_ipa": "kɔnɛ", "position": 15}
+{"sound": "k", "sound_type": "consonant", "word": "combien", "word_ipa": "kɔ̃bjɛ̃", "position": 16}
+{"sound": "k", "sound_type": "consonant", "word": "mec", "word_ipa": "mɛk", "position": 17}
+{"sound": "k", "sound_type": "consonant", "word": "contre", "word_ipa": "kɔ̃tʁ", "position": 18}
+{"sound": "k", "sound_type": "consonant", "word": "coup", "word_ipa": "ku", "position": 19}
+{"sound": "k", "sound_type": "consonant", "word": "comprends", "word_ipa": "kɔ̃pʁɑ̃", "position": 20}
+{"sound": "k", "sound_type": "consonant", "word": "cas", "word_ipa": "ka", "position": 21}
+{"sound": "k", "sound_type": "consonant", "word": "question", "word_ipa": "kɛstjɔ̃", "position": 22}
+{"sound": "k", "sound_type": "consonant", "word": "car", "word_ipa": "kaʁ", "position": 23}
+{"sound": "k", "sound_type": "consonant", "word": "aucun", "word_ipa": "okœ̃", "position": 24}
+{"sound": "k", "sound_type": "consonant", "word": "chaque", "word_ipa": "ʃak", "position": 25}
+{"sound": "k", "sound_type": "consonant", "word": "corps", "word_ipa": "kɔʁ", "position": 26}
+{"sound": "k", "sound_type": "consonant", "word": "écoute", "word_ipa": "ekut", "position": 27}
+{"sound": "k", "sound_type": "consonant", "word": "côté", "word_ipa": "kote", "position": 28}
+{"sound": "k", "sound_type": "consonant", "word": "cause", "word_ipa": "koz", "position": 29}
+{"sound": "k", "sound_type": "consonant", "word": "compte", "word_ipa": "kɔ̃t", "position": 30}
+{"sound": "ɡ", "sound_type": "consonant", "word": "regarde", "word_ipa": "ʁəɡaʁd", "position": 1}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gars", "word_ipa": "ɡa", "position": 2}
+{"sound": "ɡ", "sound_type": "consonant", "word": "grand", "word_ipa": "ɡʁɑ̃", "position": 3}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gros", "word_ipa": "ɡʁo", "position": 4}
+{"sound": "ɡ", "sound_type": "consonant", "word": "guerre", "word_ipa": "ɡɛʁ", "position": 5}
+{"sound": "ɡ", "sound_type": "consonant", "word": "garçon", "word_ipa": "ɡaʁsɔ̃", "position": 6}
+{"sound": "ɡ", "sound_type": "consonant", "word": "exactement", "word_ipa": "ɛɡzaktəmɑ̃", "position": 7}
+{"sound": "ɡ", "sound_type": "consonant", "word": "garde", "word_ipa": "ɡaʁd", "position": 8}
+{"sound": "ɡ", "sound_type": "consonant", "word": "seconde", "word_ipa": "səɡɔ̃d", "position": 9}
+{"sound": "ɡ", "sound_type": "consonant", "word": "grave", "word_ipa": "ɡʁav", "position": 10}
+{"sound": "ɡ", "sound_type": "consonant", "word": "groupe", "word_ipa": "ɡʁup", "position": 11}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gagner", "word_ipa": "ɡanje", "position": 12}
+{"sound": "ɡ", "sound_type": "consonant", "word": "grâce", "word_ipa": "ɡʁas", "position": 13}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gagné", "word_ipa": "ɡanje", "position": 14}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gauche", "word_ipa": "ɡoʃ", "position": 15}
+{"sound": "ɡ", "sound_type": "consonant", "word": "grosse", "word_ipa": "ɡʁos", "position": 16}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gamin", "word_ipa": "ɡamɛ̃", "position": 17}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gueule", "word_ipa": "ɡœl", "position": 18}
+{"sound": "ɡ", "sound_type": "consonant", "word": "blague", "word_ipa": "blaɡ", "position": 19}
+{"sound": "ɡ", "sound_type": "consonant", "word": "existe", "word_ipa": "ɛɡzist", "position": 20}
+{"sound": "ɡ", "sound_type": "consonant", "word": "drogue", "word_ipa": "dʁoɡ", "position": 21}
+{"sound": "ɡ", "sound_type": "consonant", "word": "gouvernement", "word_ipa": "ɡuvɛʁnəmɑ̃", "position": 22}
+{"sound": "ɡ", "sound_type": "consonant", "word": "dingue", "word_ipa": "dɛ̃ɡ", "position": 23}
+{"sound": "ɡ", "sound_type": "consonant", "word": "exemple", "word_ipa": "ɛɡzɑ̃pl", "position": 24}
+{"sound": "ɡ", "sound_type": "consonant", "word": "règles", "word_ipa": "ʁɛɡl", "position": 25}
+{"sound": "ɡ", "sound_type": "consonant", "word": "longue", "word_ipa": "lɔ̃ɡ", "position": 26}
+{"sound": "ɡ", "sound_type": "consonant", "word": "anglais", "word_ipa": "ɑ̃ɡlɛ", "position": 27}
+{"sound": "ɡ", "sound_type": "consonant", "word": "église", "word_ipa": "eɡliz", "position": 28}
+{"sound": "ɡ", "sound_type": "consonant", "word": "magasin", "word_ipa": "maɡazɛ̃", "position": 29}
+{"sound": "ɡ", "sound_type": "consonant", "word": "programme", "word_ipa": "pʁɔɡʁam", "position": 30}
+{"sound": "f", "sound_type": "consonant", "word": "fait", "word_ipa": "fɛ", "position": 1}
+{"sound": "f", "sound_type": "consonant", "word": "faire", "word_ipa": "fɛʁ", "position": 2}
+{"sound": "f", "sound_type": "consonant", "word": "fais", "word_ipa": "fɛ", "position": 3}
+{"sound": "f", "sound_type": "consonant", "word": "faut", "word_ipa": "fo", "position": 4}
+{"sound": "f", "sound_type": "consonant", "word": "fois", "word_ipa": "fwa", "position": 5}
+{"sound": "f", "sound_type": "consonant", "word": "femme", "word_ipa": "fam", "position": 6}
+{"sound": "f", "sound_type": "consonant", "word": "fille", "word_ipa": "fij", "position": 7}
+{"sound": "f", "sound_type": "consonant", "word": "fils", "word_ipa": "fil", "position": 8}
+{"sound": "f", "sound_type": "consonant", "word": "famille", "word_ipa": "famij", "position": 9}
+{"sound": "f", "sound_type": "consonant", "word": "faites", "word_ipa": "fɛt", "position": 10}
+{"sound": "f", "sound_type": "consonant", "word": "enfants", "word_ipa": "ɑ̃fɑ̃", "position": 11}
+{"sound": "f", "sound_type": "consonant", "word": "fini", "word_ipa": "fini", "position": 12}
+{"sound": "f", "sound_type": "consonant", "word": "frère", "word_ipa": "fʁɛʁ", "position": 13}
+{"sound": "f", "sound_type": "consonant", "word": "affaire", "word_ipa": "afɛʁ", "position": 14}
+{"sound": "f", "sound_type": "consonant", "word": "façon", "word_ipa": "fasɔ̃", "position": 15}
+{"sound": "f", "sound_type": "consonant", "word": "enfin", "word_ipa": "ɑ̃fɛ̃", "position": 16}
+{"sound": "f", "sound_type": "consonant", "word": "fin", "word_ipa": "fɛ̃", "position": 17}
+{"sound": "f", "sound_type": "consonant", "word": "confiance", "word_ipa": "kɔ̃fjɑ̃s", "position": 18}
+{"sound": "f", "sound_type": "consonant", "word": "chef", "word_ipa": "ʃɛf", "position": 19}
+{"sound": "f", "sound_type": "consonant", "word": "feu", "word_ipa": "fø", "position": 20}
+{"sound": "f", "sound_type": "consonant", "word": "téléphone", "word_ipa": "telefɔn", "position": 21}
+{"sound": "f", "sound_type": "consonant", "word": "font", "word_ipa": "fɔ̃", "position": 22}
+{"sound": "f", "sound_type": "consonant", "word": "fort", "word_ipa": "fɔʁ", "position": 23}
+{"sound": "f", "sound_type": "consonant", "word": "fou", "word_ipa": "fu", "position": 24}
+{"sound": "f", "sound_type": "consonant", "word": "fête", "word_ipa": "fɛt", "position": 25}
+{"sound": "f", "sound_type": "consonant", "word": "parfait", "word_ipa": "paʁfɛ", "position": 26}
+{"sound": "f", "sound_type": "consonant", "word": "parfois", "word_ipa": "paʁfwa", "position": 27}
+{"sound": "f", "sound_type": "consonant", "word": "film", "word_ipa": "film", "position": 28}
+{"sound": "f", "sound_type": "consonant", "word": "faute", "word_ipa": "fot", "position": 29}
+{"sound": "f", "sound_type": "consonant", "word": "facile", "word_ipa": "fasil", "position": 30}
+{"sound": "v", "sound_type": "consonant", "word": "vous", "word_ipa": "vu", "position": 1}
+{"sound": "v", "sound_type": "consonant", "word": "avec", "word_ipa": "avɛk", "position": 2}
+{"sound": "v", "sound_type": "consonant", "word": "veux", "word_ipa": "vø", "position": 3}
+{"sound": "v", "sound_type": "consonant", "word": "votre", "word_ipa": "votʁ", "position": 4}
+{"sound": "v", "sound_type": "consonant", "word": "avez", "word_ipa": "ave", "position": 5}
+{"sound": "v", "sound_type": "consonant", "word": "vais", "word_ipa": "vɛ", "position": 6}
+{"sound": "v", "sound_type": "consonant", "word": "avoir", "word_ipa": "avwaʁ", "position": 7}
+{"sound": "v", "sound_type": "consonant", "word": "vraiment", "word_ipa": "vʁɛmɑ̃", "position": 8}
+{"sound": "v", "sound_type": "consonant", "word": "voir", "word_ipa": "vwaʁ", "position": 9}
+{"sound": "v", "sound_type": "consonant", "word": "avait", "word_ipa": "avɛ", "position": 10}
+{"sound": "v", "sound_type": "consonant", "word": "vie", "word_ipa": "vi", "position": 11}
+{"sound": "v", "sound_type": "consonant", "word": "vu", "word_ipa": "vy", "position": 12}
+{"sound": "v", "sound_type": "consonant", "word": "avant", "word_ipa": "avɑ̃", "position": 13}
+{"sound": "v", "sound_type": "consonant", "word": "avais", "word_ipa": "avɛ", "position": 14}
+{"sound": "v", "sound_type": "consonant", "word": "viens", "word_ipa": "vjɛ̃", "position": 15}
+{"sound": "v", "sound_type": "consonant", "word": "vrai", "word_ipa": "vʁɛ", "position": 16}
+{"sound": "v", "sound_type": "consonant", "word": "veut", "word_ipa": "vø", "position": 17}
+{"sound": "v", "sound_type": "consonant", "word": "vos", "word_ipa": "vo", "position": 18}
+{"sound": "v", "sound_type": "consonant", "word": "vas", "word_ipa": "va", "position": 19}
+{"sound": "v", "sound_type": "consonant", "word": "vois", "word_ipa": "vwa", "position": 20}
+{"sound": "v", "sound_type": "consonant", "word": "voilà", "word_ipa": "vwala", "position": 21}
+{"sound": "v", "sound_type": "consonant", "word": "avons", "word_ipa": "avɔ̃", "position": 22}
+{"sound": "v", "sound_type": "consonant", "word": "savoir", "word_ipa": "savwaʁ", "position": 23}
+{"sound": "v", "sound_type": "consonant", "word": "arrive", "word_ipa": "aʁiv", "position": 24}
+{"sound": "v", "sound_type": "consonant", "word": "voulais", "word_ipa": "vulɛ", "position": 25}
+{"sound": "v", "sound_type": "consonant", "word": "voulez", "word_ipa": "vule", "position": 26}
+{"sound": "v", "sound_type": "consonant", "word": "trouvé", "word_ipa": "tʁuve", "position": 27}
+{"sound": "v", "sound_type": "consonant", "word": "savez", "word_ipa": "save", "position": 28}
+{"sound": "v", "sound_type": "consonant", "word": "travail", "word_ipa": "tʁavaj", "position": 29}
+{"sound": "v", "sound_type": "consonant", "word": "vite", "word_ipa": "vit", "position": 30}
+{"sound": "s", "sound_type": "consonant", "word": "suis", "word_ipa": "syi", "position": 1}
+{"sound": "s", "sound_type": "consonant", "word": "sur", "word_ipa": "syʁ", "position": 2}
+{"sound": "s", "sound_type": "consonant", "word": "sais", "word_ipa": "sɛ", "position": 3}
+{"sound": "s", "sound_type": "consonant", "word": "ici", "word_ipa": "isi", "position": 4}
+{"sound": "s", "sound_type": "consonant", "word": "cette", "word_ipa": "sɛt", "position": 5}
+{"sound": "s", "sound_type": "consonant", "word": "sont", "word_ipa": "sɔ̃", "position": 6}
+{"sound": "s", "sound_type": "consonant", "word": "merci", "word_ipa": "mɛʁsi", "position": 7}
+{"sound": "s", "sound_type": "consonant", "word": "juste", "word_ipa": "ʒyst", "position": 8}
+{"sound": "s", "sound_type": "consonant", "word": "aussi", "word_ipa": "osi", "position": 9}
+{"sound": "s", "sound_type": "consonant", "word": "tous", "word_ipa": "tus", "position": 10}
+{"sound": "s", "sound_type": "consonant", "word": "sans", "word_ipa": "sɑ̃", "position": 11}
+{"sound": "s", "sound_type": "consonant", "word": "parce", "word_ipa": "paʁs", "position": 12}
+{"sound": "s", "sound_type": "consonant", "word": "sûr", "word_ipa": "syʁ", "position": 13}
+{"sound": "s", "sound_type": "consonant", "word": "personne", "word_ipa": "pɛʁsɔn", "position": 14}
+{"sound": "s", "sound_type": "consonant", "word": "pense", "word_ipa": "pɑ̃s", "position": 15}
+{"sound": "s", "sound_type": "consonant", "word": "sera", "word_ipa": "səʁa", "position": 16}
+{"sound": "s", "sound_type": "consonant", "word": "soit", "word_ipa": "swa", "position": 17}
+{"sound": "s", "sound_type": "consonant", "word": "cela", "word_ipa": "səla", "position": 18}
+{"sound": "s", "sound_type": "consonant", "word": "soir", "word_ipa": "swaʁ", "position": 19}
+{"sound": "s", "sound_type": "consonant", "word": "passé", "word_ipa": "pase", "position": 20}
+{"sound": "s", "sound_type": "consonant", "word": "monsieur", "word_ipa": "məsjø", "position": 21}
+{"sound": "s", "sound_type": "consonant", "word": "savoir", "word_ipa": "savwaʁ", "position": 22}
+{"sound": "s", "sound_type": "consonant", "word": "salut", "word_ipa": "saly", "position": 23}
+{"sound": "s", "sound_type": "consonant", "word": "cet", "word_ipa": "sɛt", "position": 24}
+{"sound": "s", "sound_type": "consonant", "word": "reste", "word_ipa": "ʁɛst", "position": 25}
+{"sound": "s", "sound_type": "consonant", "word": "seul", "word_ipa": "sœl", "position": 26}
+{"sound": "s", "sound_type": "consonant", "word": "passe", "word_ipa": "pas", "position": 27}
+{"sound": "s", "sound_type": "consonant", "word": "savez", "word_ipa": "save", "position": 28}
+{"sound": "s", "sound_type": "consonant", "word": "assez", "word_ipa": "ase", "position": 29}
+{"sound": "s", "sound_type": "consonant", "word": "sait", "word_ipa": "sɛ", "position": 30}
+{"sound": "z", "sound_type": "consonant", "word": "chose", "word_ipa": "ʃɔz", "position": 1}
+{"sound": "z", "sound_type": "consonant", "word": "besoin", "word_ipa": "bəzwɛ̃", "position": 2}
+{"sound": "z", "sound_type": "consonant", "word": "désolé", "word_ipa": "dezole", "position": 3}
+{"sound": "z", "sound_type": "consonant", "word": "maison", "word_ipa": "mɛzɔ̃", "position": 4}
+{"sound": "z", "sound_type": "consonant", "word": "raison", "word_ipa": "ʁɛzɔ̃", "position": 5}
+{"sound": "z", "sound_type": "consonant", "word": "cause", "word_ipa": "koz", "position": 6}
+{"sound": "z", "sound_type": "consonant", "word": "exactement", "word_ipa": "ɛɡzaktəmɑ̃", "position": 7}
+{"sound": "z", "sound_type": "consonant", "word": "excusez", "word_ipa": "ɛkskyze", "position": 8}
+{"sound": "z", "sound_type": "consonant", "word": "prison", "word_ipa": "pʁizɔ̃", "position": 9}
+{"sound": "z", "sound_type": "consonant", "word": "plaisir", "word_ipa": "plɛziʁ", "position": 10}
+{"sound": "z", "sound_type": "consonant", "word": "faisait", "word_ipa": "fəzɛ", "position": 11}
+{"sound": "z", "sound_type": "consonant", "word": "bizarre", "word_ipa": "bizaʁ", "position": 12}
+{"sound": "z", "sound_type": "consonant", "word": "musique", "word_ipa": "myzik", "position": 13}
+{"sound": "z", "sound_type": "consonant", "word": "mlle", "word_ipa": "madmwazɛl", "position": 14}
+{"sound": "z", "sound_type": "consonant", "word": "suppose", "word_ipa": "sypɔz", "position": 15}
+{"sound": "z", "sound_type": "consonant", "word": "visage", "word_ipa": "vizaʒ", "position": 16}
+{"sound": "z", "sound_type": "consonant", "word": "président", "word_ipa": "pʁezidɑ̃", "position": 17}
+{"sound": "z", "sound_type": "consonant", "word": "mauvaise", "word_ipa": "movɛz", "position": 18}
+{"sound": "z", "sound_type": "consonant", "word": "utiliser", "word_ipa": "ytilize", "position": 19}
+{"sound": "z", "sound_type": "consonant", "word": "surprise", "word_ipa": "syʁpʁiz", "position": 20}
+{"sound": "z", "sound_type": "consonant", "word": "heureuse", "word_ipa": "øʁøz", "position": 21}
+{"sound": "z", "sound_type": "consonant", "word": "présent", "word_ipa": "pʁezɑ̃", "position": 22}
+{"sound": "z", "sound_type": "consonant", "word": "plusieurs", "word_ipa": "plyzjœʁ", "position": 23}
+{"sound": "z", "sound_type": "consonant", "word": "disais", "word_ipa": "dizɛ", "position": 24}
+{"sound": "z", "sound_type": "consonant", "word": "disent", "word_ipa": "diz", "position": 25}
+{"sound": "z", "sound_type": "consonant", "word": "poser", "word_ipa": "poze", "position": 26}
+{"sound": "z", "sound_type": "consonant", "word": "visite", "word_ipa": "vizit", "position": 27}
+{"sound": "z", "sound_type": "consonant", "word": "cuisine", "word_ipa": "kyizin", "position": 28}
+{"sound": "z", "sound_type": "consonant", "word": "décision", "word_ipa": "desizjɔ̃", "position": 29}
+{"sound": "z", "sound_type": "consonant", "word": "choisi", "word_ipa": "ʃwazi", "position": 30}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chose", "word_ipa": "ʃɔz", "position": 1}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chez", "word_ipa": "ʃe", "position": 2}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chance", "word_ipa": "ʃɑ̃s", "position": 3}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chercher", "word_ipa": "ʃɛʁʃe", "position": 4}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chaque", "word_ipa": "ʃak", "position": 5}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chambre", "word_ipa": "ʃɑ̃bʁ", "position": 6}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chérie", "word_ipa": "ʃeʁi", "position": 7}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chef", "word_ipa": "ʃɛf", "position": 8}
+{"sound": "ʃ", "sound_type": "consonant", "word": "marche", "word_ipa": "maʁʃ", "position": 9}
+{"sound": "ʃ", "sound_type": "consonant", "word": "choix", "word_ipa": "ʃwa", "position": 10}
+{"sound": "ʃ", "sound_type": "consonant", "word": "changer", "word_ipa": "ʃɑ̃ʒe", "position": 11}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chien", "word_ipa": "ʃjɛ̃", "position": 12}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chemin", "word_ipa": "ʃəmɛ̃", "position": 13}
+{"sound": "ʃ", "sound_type": "consonant", "word": "prochaine", "word_ipa": "pʁoʃɛn", "position": 14}
+{"sound": "ʃ", "sound_type": "consonant", "word": "cher", "word_ipa": "ʃɛʁ", "position": 15}
+{"sound": "ʃ", "sound_type": "consonant", "word": "acheter", "word_ipa": "aʃte", "position": 16}
+{"sound": "ʃ", "sound_type": "consonant", "word": "cheveux", "word_ipa": "ʃəvø", "position": 17}
+{"sound": "ʃ", "sound_type": "consonant", "word": "gauche", "word_ipa": "ɡoʃ", "position": 18}
+{"sound": "ʃ", "sound_type": "consonant", "word": "charlie", "word_ipa": "ʃaʁli", "position": 19}
+{"sound": "ʃ", "sound_type": "consonant", "word": "recherche", "word_ipa": "ʁəʃɛʁʃ", "position": 20}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chaud", "word_ipa": "ʃo", "position": 21}
+{"sound": "ʃ", "sound_type": "consonant", "word": "touche", "word_ipa": "tuʃ", "position": 22}
+{"sound": "ʃ", "sound_type": "consonant", "word": "coucher", "word_ipa": "kuʃe", "position": 23}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chacun", "word_ipa": "ʃakœ̃", "position": 24}
+{"sound": "ʃ", "sound_type": "consonant", "word": "chanson", "word_ipa": "ʃɑ̃sɔ̃", "position": 25}
+{"sound": "ʃ", "sound_type": "consonant", "word": "bouche", "word_ipa": "buʃ", "position": 26}
+{"sound": "ʃ", "sound_type": "consonant", "word": "choisi", "word_ipa": "ʃwazi", "position": 27}
+{"sound": "ʃ", "sound_type": "consonant", "word": "cheval", "word_ipa": "ʃəval", "position": 28}
+{"sound": "ʃ", "sound_type": "consonant", "word": "cacher", "word_ipa": "kaʃe", "position": 29}
+{"sound": "ʃ", "sound_type": "consonant", "word": "fiche", "word_ipa": "fiʃ", "position": 30}
+{"sound": "ʒ", "sound_type": "consonant", "word": "juste", "word_ipa": "ʒyst", "position": 1}
+{"sound": "ʒ", "sound_type": "consonant", "word": "jamais", "word_ipa": "ʒamɛ", "position": 2}
+{"sound": "ʒ", "sound_type": "consonant", "word": "toujours", "word_ipa": "tuʒuʁ", "position": 3}
+{"sound": "ʒ", "sound_type": "consonant", "word": "déjà", "word_ipa": "deʒa", "position": 4}
+{"sound": "ʒ", "sound_type": "consonant", "word": "gens", "word_ipa": "ʒɑ̃", "position": 5}
+{"sound": "ʒ", "sound_type": "consonant", "word": "jour", "word_ipa": "ʒuʁ", "position": 6}
+{"sound": "ʒ", "sound_type": "consonant", "word": "argent", "word_ipa": "aʁʒɑ̃", "position": 7}
+{"sound": "ʒ", "sound_type": "consonant", "word": "bonjour", "word_ipa": "bɔ̃ʒuʁ", "position": 8}
+{"sound": "ʒ", "sound_type": "consonant", "word": "jours", "word_ipa": "ʒuʁ", "position": 9}
+{"sound": "ʒ", "sound_type": "consonant", "word": "genre", "word_ipa": "ʒɑ̃ʁ", "position": 10}
+{"sound": "ʒ", "sound_type": "consonant", "word": "jouer", "word_ipa": "ʒwe", "position": 11}
+{"sound": "ʒ", "sound_type": "consonant", "word": "jeune", "word_ipa": "ʒøn", "position": 12}
+{"sound": "ʒ", "sound_type": "consonant", "word": "journée", "word_ipa": "ʒuʁne", "position": 13}
+{"sound": "ʒ", "sound_type": "consonant", "word": "manger", "word_ipa": "mɑ̃ʒe", "position": 14}
+{"sound": "ʒ", "sound_type": "consonant", "word": "mariage", "word_ipa": "maʁjaʒ", "position": 15}
+{"sound": "ʒ", "sound_type": "consonant", "word": "jeu", "word_ipa": "ʒø", "position": 16}
+{"sound": "ʒ", "sound_type": "consonant", "word": "génial", "word_ipa": "ʒenjal", "position": 17}
+{"sound": "ʒ", "sound_type": "consonant", "word": "changer", "word_ipa": "ʃɑ̃ʒe", "position": 18}
+{"sound": "ʒ", "sound_type": "consonant", "word": "agent", "word_ipa": "aʒɑ̃", "position": 19}
+{"sound": "ʒ", "sound_type": "consonant", "word": "sujet", "word_ipa": "syʒɛ", "position": 20}
+{"sound": "ʒ", "sound_type": "consonant", "word": "gentil", "word_ipa": "ʒɑ̃ti", "position": 21}
+{"sound": "ʒ", "sound_type": "consonant", "word": "visage", "word_ipa": "vizaʒ", "position": 22}
+{"sound": "ʒ", "sound_type": "consonant", "word": "message", "word_ipa": "mɛsaʒ", "position": 23}
+{"sound": "ʒ", "sound_type": "consonant", "word": "joue", "word_ipa": "ʒu", "position": 24}
+{"sound": "ʒ", "sound_type": "consonant", "word": "général", "word_ipa": "ʒeneʁal", "position": 25}
+{"sound": "ʒ", "sound_type": "consonant", "word": "âge", "word_ipa": "aʒ", "position": 26}
+{"sound": "ʒ", "sound_type": "consonant", "word": "voyage", "word_ipa": "vwajaʒ", "position": 27}
+{"sound": "ʒ", "sound_type": "consonant", "word": "protéger", "word_ipa": "pʁoteʒe", "position": 28}
+{"sound": "ʒ", "sound_type": "consonant", "word": "agit", "word_ipa": "aʒi", "position": 29}
+{"sound": "ʒ", "sound_type": "consonant", "word": "bouge", "word_ipa": "buʒ", "position": 30}
+{"sound": "m", "sound_type": "consonant", "word": "mais", "word_ipa": "mɛ", "position": 1}
+{"sound": "m", "sound_type": "consonant", "word": "moi", "word_ipa": "mwa", "position": 2}
+{"sound": "m", "sound_type": "consonant", "word": "comme", "word_ipa": "kɔm", "position": 3}
+{"sound": "m", "sound_type": "consonant", "word": "merci", "word_ipa": "mɛʁsi", "position": 4}
+{"sound": "m", "sound_type": "consonant", "word": "jamais", "word_ipa": "ʒamɛ", "position": 5}
+{"sound": "m", "sound_type": "consonant", "word": "vraiment", "word_ipa": "vʁɛmɑ̃", "position": 6}
+{"sound": "m", "sound_type": "consonant", "word": "même", "word_ipa": "mɛm", "position": 7}
+{"sound": "m", "sound_type": "consonant", "word": "maintenant", "word_ipa": "mɛ̃tnɑ̃", "position": 8}
+{"sound": "m", "sound_type": "consonant", "word": "monde", "word_ipa": "mɔ̃d", "position": 9}
+{"sound": "m", "sound_type": "consonant", "word": "aime", "word_ipa": "ɛm", "position": 10}
+{"sound": "m", "sound_type": "consonant", "word": "homme", "word_ipa": "ɔm", "position": 11}
+{"sound": "m", "sound_type": "consonant", "word": "femme", "word_ipa": "fam", "position": 12}
+{"sound": "m", "sound_type": "consonant", "word": "mal", "word_ipa": "mal", "position": 13}
+{"sound": "m", "sound_type": "consonant", "word": "mort", "word_ipa": "mɔʁ", "position": 14}
+{"sound": "m", "sound_type": "consonant", "word": "mieux", "word_ipa": "mjø", "position": 15}
+{"sound": "m", "sound_type": "consonant", "word": "mère", "word_ipa": "mɛʁ", "position": 16}
+{"sound": "m", "sound_type": "consonant", "word": "maison", "word_ipa": "mɛzɔ̃", "position": 17}
+{"sound": "m", "sound_type": "consonant", "word": "monsieur", "word_ipa": "məsjø", "position": 18}
+{"sound": "m", "sound_type": "consonant", "word": "moins", "word_ipa": "mwɛ̃", "position": 19}
+{"sound": "m", "sound_type": "consonant", "word": "maman", "word_ipa": "mamɑ̃", "position": 20}
+{"sound": "m", "sound_type": "consonant", "word": "moment", "word_ipa": "momɑ̃", "position": 21}
+{"sound": "m", "sound_type": "consonant", "word": "problème", "word_ipa": "pʁɔblɛm", "position": 22}
+{"sound": "m", "sound_type": "consonant", "word": "famille", "word_ipa": "famij", "position": 23}
+{"sound": "m", "sound_type": "consonant", "word": "sommes", "word_ipa": "sɔm", "position": 24}
+{"sound": "m", "sound_type": "consonant", "word": "merde", "word_ipa": "mɛʁd", "position": 25}
+{"sound": "m", "sound_type": "consonant", "word": "ami", "word_ipa": "ami", "position": 26}
+{"sound": "m", "sound_type": "consonant", "word": "demain", "word_ipa": "dəmɛ̃", "position": 27}
+{"sound": "m", "sound_type": "consonant", "word": "mec", "word_ipa": "mɛk", "position": 28}
+{"sound": "m", "sound_type": "consonant", "word": "amour", "word_ipa": "amuʁ", "position": 29}
+{"sound": "m", "sound_type": "consonant", "word": "amis", "word_ipa": "ami", "position": 30}
+{"sound": "n", "sound_type": "consonant", "word": "nous", "word_ipa": "nu", "position": 1}
+{"sound": "n", "sound_type": "consonant", "word": "non", "word_ipa": "nɔ̃", "position": 2}
+{"sound": "n", "sound_type": "consonant", "word": "maintenant", "word_ipa": "mɛ̃tnɑ̃", "position": 3}
+{"sound": "n", "sound_type": "consonant", "word": "notre", "word_ipa": "notʁ", "position": 4}
+{"sound": "n", "sound_type": "consonant", "word": "personne", "word_ipa": "pɛʁsɔn", "position": 5}
+{"sound": "n", "sound_type": "consonant", "word": "bonne", "word_ipa": "bɔn", "position": 6}
+{"sound": "n", "sound_type": "consonant", "word": "nos", "word_ipa": "no", "position": 7}
+{"sound": "n", "sound_type": "consonant", "word": "nom", "word_ipa": "nɔ̃", "position": 8}
+{"sound": "n", "sound_type": "consonant", "word": "nuit", "word_ipa": "nyi", "position": 9}
+{"sound": "n", "sound_type": "consonant", "word": "venir", "word_ipa": "vəniʁ", "position": 10}
+{"sound": "n", "sound_type": "consonant", "word": "connais", "word_ipa": "kɔnɛ", "position": 11}
+{"sound": "n", "sound_type": "consonant", "word": "nouveau", "word_ipa": "nuvo", "position": 12}
+{"sound": "n", "sound_type": "consonant", "word": "fini", "word_ipa": "fini", "position": 13}
+{"sound": "n", "sound_type": "consonant", "word": "dernière", "word_ipa": "dɛʁnjɛʁ", "position": 14}
+{"sound": "n", "sound_type": "consonant", "word": "aucune", "word_ipa": "okyn", "position": 15}
+{"sound": "n", "sound_type": "consonant", "word": "donner", "word_ipa": "dɔne", "position": 16}
+{"sound": "n", "sound_type": "consonant", "word": "donné", "word_ipa": "dɔne", "position": 17}
+{"sound": "n", "sound_type": "consonant", "word": "venu", "word_ipa": "vəny", "position": 18}
+{"sound": "n", "sound_type": "consonant", "word": "minutes", "word_ipa": "minyt", "position": 19}
+{"sound": "n", "sound_type": "consonant", "word": "venez", "word_ipa": "vəne", "position": 20}
+{"sound": "n", "sound_type": "consonant", "word": "jeune", "word_ipa": "ʒøn", "position": 21}
+{"sound": "n", "sound_type": "consonant", "word": "années", "word_ipa": "ane", "position": 22}
+{"sound": "n", "sound_type": "consonant", "word": "semaine", "word_ipa": "səmɛn", "position": 23}
+{"sound": "n", "sound_type": "consonant", "word": "journée", "word_ipa": "ʒuʁne", "position": 24}
+{"sound": "n", "sound_type": "consonant", "word": "téléphone", "word_ipa": "telefɔn", "position": 25}
+{"sound": "n", "sound_type": "consonant", "word": "ben", "word_ipa": "bɛn", "position": 26}
+{"sound": "n", "sound_type": "consonant", "word": "capitaine", "word_ipa": "kapitɛn", "position": 27}
+{"sound": "n", "sound_type": "consonant", "word": "génial", "word_ipa": "ʒenjal", "position": 28}
+{"sound": "n", "sound_type": "consonant", "word": "numéro", "word_ipa": "nymeʁo", "position": 29}
+{"sound": "n", "sound_type": "consonant", "word": "peine", "word_ipa": "pɛn", "position": 30}
+{"sound": "ɲ", "sound_type": "consonant", "word": "ligne", "word_ipa": "liɲ", "position": 1}
+{"sound": "ɲ", "sound_type": "consonant", "word": "magnifique", "word_ipa": "maɲifik", "position": 2}
+{"sound": "ɲ", "sound_type": "consonant", "word": "signifie", "word_ipa": "siɲifi", "position": 3}
+{"sound": "ɲ", "sound_type": "consonant", "word": "signe", "word_ipa": "siɲ", "position": 4}
+{"sound": "ɲ", "sound_type": "consonant", "word": "gagne", "word_ipa": "ɡaɲ", "position": 5}
+{"sound": "ɲ", "sound_type": "consonant", "word": "campagne", "word_ipa": "kɑ̃paɲ", "position": 6}
+{"sound": "ɲ", "sound_type": "consonant", "word": "montagne", "word_ipa": "mɔ̃taɲ", "position": 7}
+{"sound": "ɲ", "sound_type": "consonant", "word": "champagne", "word_ipa": "ʃɑ̃paɲ", "position": 8}
+{"sound": "ɲ", "sound_type": "consonant", "word": "digne", "word_ipa": "diɲ", "position": 9}
+{"sound": "ɲ", "sound_type": "consonant", "word": "accompagne", "word_ipa": "akɔ̃paɲ", "position": 10}
+{"sound": "ɲ", "sound_type": "consonant", "word": "allemagne", "word_ipa": "almaɲ", "position": 11}
+{"sound": "ɲ", "sound_type": "consonant", "word": "enseigne", "word_ipa": "ɑ̃sɛɲ", "position": 12}
+{"sound": "ɲ", "sound_type": "consonant", "word": "espagne", "word_ipa": "ɛspaɲ", "position": 13}
+{"sound": "ɲ", "sound_type": "consonant", "word": "saigne", "word_ipa": "sɛɲ", "position": 14}
+{"sound": "ɲ", "sound_type": "consonant", "word": "dignité", "word_ipa": "diɲite", "position": 15}
+{"sound": "ɲ", "sound_type": "consonant", "word": "règne", "word_ipa": "ʁɛɲ", "position": 16}
+{"sound": "ɲ", "sound_type": "consonant", "word": "éloigne", "word_ipa": "elwaɲ", "position": 17}
+{"sound": "ɲ", "sound_type": "consonant", "word": "raccompagne", "word_ipa": "ʁakɔ̃paɲ", "position": 18}
+{"sound": "ɲ", "sound_type": "consonant", "word": "ivrogne", "word_ipa": "ivʁɔɲ", "position": 19}
+{"sound": "ɲ", "sound_type": "consonant", "word": "soigne", "word_ipa": "swaɲ", "position": 20}
+{"sound": "ɲ", "sound_type": "consonant", "word": "insigne", "word_ipa": "ɛ̃siɲ", "position": 21}
+{"sound": "ɲ", "sound_type": "consonant", "word": "grognements", "word_ipa": "ɡʁoɲəmɑ̃", "position": 22}
+{"sound": "ɲ", "sound_type": "consonant", "word": "maligne", "word_ipa": "maliɲ", "position": 23}
+{"sound": "ɲ", "sound_type": "consonant", "word": "épargne", "word_ipa": "epaʁɲ", "position": 24}
+{"sound": "ɲ", "sound_type": "consonant", "word": "peigne", "word_ipa": "pɛɲ", "position": 25}
+{"sound": "ɲ", "sound_type": "consonant", "word": "cogne", "word_ipa": "kɔɲ", "position": 26}
+{"sound": "ɲ", "sound_type": "consonant", "word": "indigne", "word_ipa": "ɛ̃diɲ", "position": 27}
+{"sound": "ɲ", "sound_type": "consonant", "word": "pologne", "word_ipa": "polɔɲ", "position": 28}
+{"sound": "ɲ", "sound_type": "consonant", "word": "compagne", "word_ipa": "kɔ̃paɲ", "position": 29}
+{"sound": "ɲ", "sound_type": "consonant", "word": "baigne", "word_ipa": "bɛɲ", "position": 30}
+{"sound": "ŋ", "sound_type": "consonant", "word": "parking", "word_ipa": "pɑkɪŋ", "position": 1}
+{"sound": "ŋ", "sound_type": "consonant", "word": "camping", "word_ipa": "kampɪŋ", "position": 2}
+{"sound": "ŋ", "sound_type": "consonant", "word": "shopping", "word_ipa": "ʃɒpɪŋ", "position": 3}
+{"sound": "ŋ", "sound_type": "consonant", "word": "jogging", "word_ipa": "dʒɒɡɪŋ", "position": 4}
+{"sound": "ŋ", "sound_type": "consonant", "word": "smoking", "word_ipa": "sməʊkɪŋ", "position": 5}
+{"sound": "ŋ", "sound_type": "consonant", "word": "meeting", "word_ipa": "mitɪŋ", "position": 6}
+{"sound": "ŋ", "sound_type": "consonant", "word": "marketing", "word_ipa": "mɑkɪtɪŋ", "position": 7}
+{"sound": "ŋ", "sound_type": "consonant", "word": "building", "word_ipa": "bɪldɪŋ", "position": 8}
+{"sound": "ŋ", "sound_type": "consonant", "word": "brushing", "word_ipa": "bɹʌʃɪŋ", "position": 9}
+{"sound": "ŋ", "sound_type": "consonant", "word": "dancing", "word_ipa": "dansɪŋ", "position": 10}
+{"sound": "ŋ", "sound_type": "consonant", "word": "planning", "word_ipa": "planɪŋ", "position": 11}
+{"sound": "ŋ", "sound_type": "consonant", "word": "pressing", "word_ipa": "pɹɛsɪŋ", "position": 12}
+{"sound": "ŋ", "sound_type": "consonant", "word": "bowling", "word_ipa": "bəʊlɪŋ", "position": 13}
+{"sound": "ŋ", "sound_type": "consonant", "word": "standing", "word_ipa": "standɪŋ", "position": 14}
+{"sound": "ŋ", "sound_type": "consonant", "word": "living", "word_ipa": "lɪvɪŋ", "position": 15}
+{"sound": "ŋ", "sound_type": "consonant", "word": "casting", "word_ipa": "kastɪŋ", "position": 16}
+{"sound": "ŋ", "sound_type": "consonant", "word": "briefing", "word_ipa": "bɹifɪŋ", "position": 17}
+{"sound": "ŋ", "sound_type": "consonant", "word": "lifting", "word_ipa": "lɪftɪŋ", "position": 18}
+{"sound": "ŋ", "sound_type": "consonant", "word": "coaching", "word_ipa": "kəʊtʃɪŋ", "position": 19}
+{"sound": "ŋ", "sound_type": "consonant", "word": "footing", "word_ipa": "fʊtɪŋ", "position": 20}
+{"sound": "ŋ", "sound_type": "consonant", "word": "ring", "word_ipa": "ɹɪŋ", "position": 21}
+{"sound": "ŋ", "sound_type": "consonant", "word": "piercing", "word_ipa": "piəsɪŋ", "position": 22}
+{"sound": "ŋ", "sound_type": "consonant", "word": "lobbying", "word_ipa": "lɒbɪɪŋ", "position": 23}
+{"sound": "l", "sound_type": "consonant", "word": "elle", "word_ipa": "ɛl", "position": 1}
+{"sound": "l", "sound_type": "consonant", "word": "plus", "word_ipa": "ply", "position": 2}
+{"sound": "l", "sound_type": "consonant", "word": "ils", "word_ipa": "il", "position": 3}
+{"sound": "l", "sound_type": "consonant", "word": "lui", "word_ipa": "lyi", "position": 4}
+{"sound": "l", "sound_type": "consonant", "word": "alors", "word_ipa": "alɔʁ", "position": 5}
+{"sound": "l", "sound_type": "consonant", "word": "allez", "word_ipa": "ale", "position": 6}
+{"sound": "l", "sound_type": "consonant", "word": "quelque", "word_ipa": "kɛlkə", "position": 7}
+{"sound": "l", "sound_type": "consonant", "word": "aller", "word_ipa": "ale", "position": 8}
+{"sound": "l", "sound_type": "consonant", "word": "parler", "word_ipa": "paʁle", "position": 9}
+{"sound": "l", "sound_type": "consonant", "word": "leur", "word_ipa": "lœʁ", "position": 10}
+{"sound": "l", "sound_type": "consonant", "word": "mal", "word_ipa": "mal", "position": 11}
+{"sound": "l", "sound_type": "consonant", "word": "quel", "word_ipa": "kɛl", "position": 12}
+{"sound": "l", "sound_type": "consonant", "word": "désolé", "word_ipa": "dezole", "position": 13}
+{"sound": "l", "sound_type": "consonant", "word": "voilà", "word_ipa": "vwala", "position": 14}
+{"sound": "l", "sound_type": "consonant", "word": "cela", "word_ipa": "səla", "position": 15}
+{"sound": "l", "sound_type": "consonant", "word": "salut", "word_ipa": "saly", "position": 16}
+{"sound": "l", "sound_type": "consonant", "word": "voulais", "word_ipa": "vulɛ", "position": 17}
+{"sound": "l", "sound_type": "consonant", "word": "seul", "word_ipa": "sœl", "position": 18}
+{"sound": "l", "sound_type": "consonant", "word": "problème", "word_ipa": "pʁɔblɛm", "position": 19}
+{"sound": "l", "sound_type": "consonant", "word": "voulez", "word_ipa": "vule", "position": 20}
+{"sound": "l", "sound_type": "consonant", "word": "fils", "word_ipa": "fil", "position": 21}
+{"sound": "l", "sound_type": "consonant", "word": "plaît", "word_ipa": "plɛ", "position": 22}
+{"sound": "l", "sound_type": "consonant", "word": "quelle", "word_ipa": "kɛl", "position": 23}
+{"sound": "l", "sound_type": "consonant", "word": "appelle", "word_ipa": "apɛl", "position": 24}
+{"sound": "l", "sound_type": "consonant", "word": "seule", "word_ipa": "sœl", "position": 25}
+{"sound": "l", "sound_type": "consonant", "word": "elles", "word_ipa": "ɛl", "position": 26}
+{"sound": "l", "sound_type": "consonant", "word": "allons", "word_ipa": "alɔ̃", "position": 27}
+{"sound": "l", "sound_type": "consonant", "word": "ensemble", "word_ipa": "ɑ̃sɑ̃bl", "position": 28}
+{"sound": "l", "sound_type": "consonant", "word": "police", "word_ipa": "polis", "position": 29}
+{"sound": "l", "sound_type": "consonant", "word": "laisser", "word_ipa": "lɛse", "position": 30}
+{"sound": "ʁ", "sound_type": "consonant", "word": "pour", "word_ipa": "puʁ", "position": 1}
+{"sound": "ʁ", "sound_type": "consonant", "word": "faire", "word_ipa": "fɛʁ", "position": 2}
+{"sound": "ʁ", "sound_type": "consonant", "word": "sur", "word_ipa": "syʁ", "position": 3}
+{"sound": "ʁ", "sound_type": "consonant", "word": "être", "word_ipa": "ɛtʁ", "position": 4}
+{"sound": "ʁ", "sound_type": "consonant", "word": "votre", "word_ipa": "votʁ", "position": 5}
+{"sound": "ʁ", "sound_type": "consonant", "word": "pourquoi", "word_ipa": "puʁkwa", "position": 6}
+{"sound": "ʁ", "sound_type": "consonant", "word": "rien", "word_ipa": "ʁiɛ̃", "position": 7}
+{"sound": "ʁ", "sound_type": "consonant", "word": "dire", "word_ipa": "diʁ", "position": 8}
+{"sound": "ʁ", "sound_type": "consonant", "word": "alors", "word_ipa": "alɔʁ", "position": 9}
+{"sound": "ʁ", "sound_type": "consonant", "word": "par", "word_ipa": "paʁ", "position": 10}
+{"sound": "ʁ", "sound_type": "consonant", "word": "merci", "word_ipa": "mɛʁsi", "position": 11}
+{"sound": "ʁ", "sound_type": "consonant", "word": "très", "word_ipa": "tʁɛ", "position": 12}
+{"sound": "ʁ", "sound_type": "consonant", "word": "avoir", "word_ipa": "avwaʁ", "position": 13}
+{"sound": "ʁ", "sound_type": "consonant", "word": "vraiment", "word_ipa": "vʁɛmɑ̃", "position": 14}
+{"sound": "ʁ", "sound_type": "consonant", "word": "voir", "word_ipa": "vwaʁ", "position": 15}
+{"sound": "ʁ", "sound_type": "consonant", "word": "autre", "word_ipa": "otʁ", "position": 16}
+{"sound": "ʁ", "sound_type": "consonant", "word": "toujours", "word_ipa": "tuʒuʁ", "position": 17}
+{"sound": "ʁ", "sound_type": "consonant", "word": "encore", "word_ipa": "ɑ̃kɔʁ", "position": 18}
+{"sound": "ʁ", "sound_type": "consonant", "word": "notre", "word_ipa": "notʁ", "position": 19}
+{"sound": "ʁ", "sound_type": "consonant", "word": "accord", "word_ipa": "akɔʁ", "position": 20}
+{"sound": "ʁ", "sound_type": "consonant", "word": "parce", "word_ipa": "paʁs", "position": 21}
+{"sound": "ʁ", "sound_type": "consonant", "word": "sûr", "word_ipa": "syʁ", "position": 22}
+{"sound": "ʁ", "sound_type": "consonant", "word": "trop", "word_ipa": "tʁo", "position": 23}
+{"sound": "ʁ", "sound_type": "consonant", "word": "parler", "word_ipa": "paʁle", "position": 24}
+{"sound": "ʁ", "sound_type": "consonant", "word": "personne", "word_ipa": "pɛʁsɔn", "position": 25}
+{"sound": "ʁ", "sound_type": "consonant", "word": "père", "word_ipa": "pɛʁ", "position": 26}
+{"sound": "ʁ", "sound_type": "consonant", "word": "crois", "word_ipa": "kʁwa", "position": 27}
+{"sound": "ʁ", "sound_type": "consonant", "word": "après", "word_ipa": "apʁɛ", "position": 28}
+{"sound": "ʁ", "sound_type": "consonant", "word": "leur", "word_ipa": "lœʁ", "position": 29}
+{"sound": "ʁ", "sound_type": "consonant", "word": "vrai", "word_ipa": "vʁɛ", "position": 30}
+{"sound": "j", "sound_type": "semi-vowel", "word": "bien", "word_ipa": "bjɛ̃", "position": 1}
+{"sound": "j", "sound_type": "semi-vowel", "word": "dieu", "word_ipa": "djø", "position": 2}
+{"sound": "j", "sound_type": "semi-vowel", "word": "viens", "word_ipa": "vjɛ̃", "position": 3}
+{"sound": "j", "sound_type": "semi-vowel", "word": "mieux", "word_ipa": "mjø", "position": 4}
+{"sound": "j", "sound_type": "semi-vowel", "word": "fille", "word_ipa": "fij", "position": 5}
+{"sound": "j", "sound_type": "semi-vowel", "word": "monsieur", "word_ipa": "məsjø", "position": 6}
+{"sound": "j", "sound_type": "semi-vowel", "word": "famille", "word_ipa": "famij", "position": 7}
+{"sound": "j", "sound_type": "semi-vowel", "word": "travail", "word_ipa": "tʁavaj", "position": 8}
+{"sound": "j", "sound_type": "semi-vowel", "word": "combien", "word_ipa": "kɔ̃bjɛ̃", "position": 9}
+{"sound": "j", "sound_type": "semi-vowel", "word": "vient", "word_ipa": "vjɛ̃", "position": 10}
+{"sound": "j", "sound_type": "semi-vowel", "word": "question", "word_ipa": "kɛstjɔ̃", "position": 11}
+{"sound": "j", "sound_type": "semi-vowel", "word": "dernière", "word_ipa": "dɛʁnjɛʁ", "position": 12}
+{"sound": "j", "sound_type": "semi-vowel", "word": "attention", "word_ipa": "atɑ̃sjɔ̃", "position": 13}
+{"sound": "j", "sound_type": "semi-vowel", "word": "premier", "word_ipa": "pʁəmje", "position": 14}
+{"sound": "j", "sound_type": "semi-vowel", "word": "tiens", "word_ipa": "tjɛ̃", "position": 15}
+{"sound": "j", "sound_type": "semi-vowel", "word": "vieux", "word_ipa": "vjø", "position": 16}
+{"sound": "j", "sound_type": "semi-vowel", "word": "hier", "word_ipa": "jɛʁ", "position": 17}
+{"sound": "j", "sound_type": "semi-vowel", "word": "confiance", "word_ipa": "kɔ̃fjɑ̃s", "position": 18}
+{"sound": "j", "sound_type": "semi-vowel", "word": "meilleur", "word_ipa": "mɛjœʁ", "position": 19}
+{"sound": "j", "sound_type": "semi-vowel", "word": "derrière", "word_ipa": "dɛʁjɛʁ", "position": 20}
+{"sound": "j", "sound_type": "semi-vowel", "word": "mariage", "word_ipa": "maʁjaʒ", "position": 21}
+{"sound": "j", "sound_type": "semi-vowel", "word": "souviens", "word_ipa": "suvjɛ̃", "position": 22}
+{"sound": "j", "sound_type": "semi-vowel", "word": "génial", "word_ipa": "ʒenjal", "position": 23}
+{"sound": "j", "sound_type": "semi-vowel", "word": "bientôt", "word_ipa": "bjɛ̃to", "position": 24}
+{"sound": "j", "sound_type": "semi-vowel", "word": "essayé", "word_ipa": "esɛje", "position": 25}
+{"sound": "j", "sound_type": "semi-vowel", "word": "voyez", "word_ipa": "vwaje", "position": 26}
+{"sound": "j", "sound_type": "semi-vowel", "word": "croyais", "word_ipa": "kʁwajɛ", "position": 27}
+{"sound": "j", "sound_type": "semi-vowel", "word": "étiez", "word_ipa": "etje", "position": 28}
+{"sound": "j", "sound_type": "semi-vowel", "word": "lieu", "word_ipa": "ljø", "position": 29}
+{"sound": "j", "sound_type": "semi-vowel", "word": "inquiète", "word_ipa": "ɛ̃kjɛt", "position": 30}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "suis", "word_ipa": "syi", "position": 1}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "lui", "word_ipa": "lyi", "position": 2}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "depuis", "word_ipa": "dəpyi", "position": 3}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "nuit", "word_ipa": "nyi", "position": 4}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "tuer", "word_ipa": "tye", "position": 5}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "puis", "word_ipa": "pyi", "position": 6}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "tué", "word_ipa": "tye", "position": 7}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "suite", "word_ipa": "syit", "position": 8}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "celui", "word_ipa": "səlyi", "position": 9}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "ensuite", "word_ipa": "ɑ̃syit", "position": 10}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "puisse", "word_ipa": "pyis", "position": 11}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "situation", "word_ipa": "sityasjɔ̃", "position": 12}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "suivre", "word_ipa": "syivʁ", "position": 13}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "continuer", "word_ipa": "kɔ̃tinye", "position": 14}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "tueur", "word_ipa": "tyœʁ", "position": 15}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "cuisine", "word_ipa": "kyizin", "position": 16}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "bruit", "word_ipa": "bʁyi", "position": 17}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "ennuis", "word_ipa": "ɑ̃nyi", "position": 18}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "conduire", "word_ipa": "kɔ̃dyiʁ", "position": 19}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "huit", "word_ipa": "yit", "position": 20}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "détruire", "word_ipa": "detʁyiʁ", "position": 21}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "puisque", "word_ipa": "pyiskə", "position": 22}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "tuée", "word_ipa": "tye", "position": 23}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "suivi", "word_ipa": "syivi", "position": 24}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "produit", "word_ipa": "pʁodyi", "position": 25}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "suivant", "word_ipa": "syivɑ̃", "position": 26}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "suicide", "word_ipa": "syisid", "position": 27}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "fuir", "word_ipa": "fyiʁ", "position": 28}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "pluie", "word_ipa": "plyi", "position": 29}
+{"sound": "ɥ", "sound_type": "semi-vowel", "word": "fuite", "word_ipa": "fyit", "position": 30}
+{"sound": "w", "sound_type": "semi-vowel", "word": "moi", "word_ipa": "mwa", "position": 1}
+{"sound": "w", "sound_type": "semi-vowel", "word": "oui", "word_ipa": "wi", "position": 2}
+{"sound": "w", "sound_type": "semi-vowel", "word": "quoi", "word_ipa": "kwa", "position": 3}
+{"sound": "w", "sound_type": "semi-vowel", "word": "toi", "word_ipa": "twa", "position": 4}
+{"sound": "w", "sound_type": "semi-vowel", "word": "pourquoi", "word_ipa": "puʁkwa", "position": 5}
+{"sound": "w", "sound_type": "semi-vowel", "word": "avoir", "word_ipa": "avwaʁ", "position": 6}
+{"sound": "w", "sound_type": "semi-vowel", "word": "voir", "word_ipa": "vwaʁ", "position": 7}
+{"sound": "w", "sound_type": "semi-vowel", "word": "besoin", "word_ipa": "bəzwɛ̃", "position": 8}
+{"sound": "w", "sound_type": "semi-vowel", "word": "dois", "word_ipa": "dwa", "position": 9}
+{"sound": "w", "sound_type": "semi-vowel", "word": "fois", "word_ipa": "fwa", "position": 10}
+{"sound": "w", "sound_type": "semi-vowel", "word": "crois", "word_ipa": "kʁwa", "position": 11}
+{"sound": "w", "sound_type": "semi-vowel", "word": "ouais", "word_ipa": "wɛ", "position": 12}
+{"sound": "w", "sound_type": "semi-vowel", "word": "doit", "word_ipa": "dwa", "position": 13}
+{"sound": "w", "sound_type": "semi-vowel", "word": "vois", "word_ipa": "vwa", "position": 14}
+{"sound": "w", "sound_type": "semi-vowel", "word": "voilà", "word_ipa": "vwala", "position": 15}
+{"sound": "w", "sound_type": "semi-vowel", "word": "soit", "word_ipa": "swa", "position": 16}
+{"sound": "w", "sound_type": "semi-vowel", "word": "soir", "word_ipa": "swaʁ", "position": 17}
+{"sound": "w", "sound_type": "semi-vowel", "word": "savoir", "word_ipa": "savwaʁ", "position": 18}
+{"sound": "w", "sound_type": "semi-vowel", "word": "moins", "word_ipa": "mwɛ̃", "position": 19}
+{"sound": "w", "sound_type": "semi-vowel", "word": "trois", "word_ipa": "tʁwa", "position": 20}
+{"sound": "w", "sound_type": "semi-vowel", "word": "voiture", "word_ipa": "vwatyʁ", "position": 21}
+{"sound": "w", "sound_type": "semi-vowel", "word": "histoire", "word_ipa": "istwaʁ", "position": 22}
+{"sound": "w", "sound_type": "semi-vowel", "word": "mois", "word_ipa": "mwa", "position": 23}
+{"sound": "w", "sound_type": "semi-vowel", "word": "revoir", "word_ipa": "ʁəvwaʁ", "position": 24}
+{"sound": "w", "sound_type": "semi-vowel", "word": "endroit", "word_ipa": "ɑ̃dʁwa", "position": 25}
+{"sound": "w", "sound_type": "semi-vowel", "word": "voici", "word_ipa": "vwasi", "position": 26}
+{"sound": "w", "sound_type": "semi-vowel", "word": "pouvoir", "word_ipa": "puvwaʁ", "position": 27}
+{"sound": "w", "sound_type": "semi-vowel", "word": "point", "word_ipa": "pwɛ̃", "position": 28}
+{"sound": "w", "sound_type": "semi-vowel", "word": "sois", "word_ipa": "swa", "position": 29}
+{"sound": "w", "sound_type": "semi-vowel", "word": "droit", "word_ipa": "dʁwa", "position": 30}
